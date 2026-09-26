@@ -1,0 +1,9 @@
+# Responsible Disclosure Policy:
+https://cdn.aspireapp.com/responsible-disclosure.pdf
+
+# Responsible Disclosure Policy Email:
+Contact: mailto:security@aspireapp.com
+
+Expires: 2025-12-31T18:29:00.000Z
+
+Preferred-Languages: en

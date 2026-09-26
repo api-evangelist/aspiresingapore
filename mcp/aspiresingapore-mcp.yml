@@ -1,0 +1,30 @@
+generated: '2026-09-26'
+method: derived
+generator: derive-mcp-candidate.py
+source:
+- openapi/_ae-authored/aspiresingapore-openapi-generated.yml
+status: candidate
+deployment:
+  mode: none
+  auth: unknown
+  verified: probed
+note: 'No MCP server was found. The pre-flight posted tools/list to /mcp on api.aspireapp.com, aspireapp.com, app.aspireapp.com, docs.api.aspireapp.com;
+  verdict opaque (https://help.aspireapp.com/mcp answered 403: the edge authenticates before it routes, which proves nothing either way). Candidate
+  tools below are derived from the 3 operation(s) in the provider''s own OpenAPI (3 listed); they describe what a server WOULD expose, not one
+  that exists.'
+tools:
+- name: get_public_v1_batch_transfers_id
+  operationId: get_public_v1_batch_transfers_id
+  method: GET
+  path: /public/v1/batch-transfers/{id}
+  description: Bulk / Batch Transfer Status
+- name: post_public_v1_login
+  operationId: post_public_v1_login
+  method: POST
+  path: /public/v1/login
+  description: POST /public/v1/login
+- name: get_public_v1_v1id_uuid_status
+  operationId: get_public_v1_v1id_uuid_status
+  method: GET
+  path: /public/v1/{v1id}/{uuid}/status
+  description: Bulk / Batch Transfer Status

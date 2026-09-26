@@ -1,0 +1,941 @@
+# Aspire Help Center
+
+> How can we help?
+
+## English
+
+### Opening your Account 
+
+- [What Services does Aspire Offer?](https://help.aspireapp.com/en/articles/9234574-what-services-does-aspire-offer.md)
+- [What Countries does Aspire Support?](https://help.aspireapp.com/en/articles/9239713-what-countries-does-aspire-support.md)
+- [How to Complete Your Aspire Biometric Verification](https://help.aspireapp.com/en/articles/12114489-how-to-complete-your-aspire-biometric-verification.md)
+- [How to Apply an Aspire Account for Singapore, Hong Kong, and other Supported Countries](https://help.aspireapp.com/en/articles/9324513-how-to-apply-an-aspire-account-for-singapore-hong-kong-and-other-supported-countries.md)
+- [How US Businesses Can Apply for an Aspire Account](https://help.aspireapp.com/en/articles/12990105-how-us-businesses-can-apply-for-an-aspire-account.md)
+- [Does Aspire serve Funds and SPVs?](https://help.aspireapp.com/en/articles/9250262-does-aspire-serve-funds-and-spvs.md)
+- [Account Opening Guide for Singapore Incorporated Companies](https://help.aspireapp.com/en/articles/9250429-account-opening-guide-for-singapore-incorporated-companies.md)
+- [Account Opening Guide for Hong Kong Incorporated Companies](https://help.aspireapp.com/en/articles/9258095-account-opening-guide-for-hong-kong-incorporated-companies.md)
+- [Account Opening Guide for US Incorporated Companies](https://help.aspireapp.com/en/articles/11456748-account-opening-guide-for-us-incorporated-companies.md): The documents required to open an Aspire account depend upon the complexity of your organisation.
+- [Account Opening Guide for companies from other countries](https://help.aspireapp.com/en/articles/9240218-account-opening-guide-for-companies-from-other-countries.md): The documents required to open an Aspire account depend upon the complexity of your organisation.
+- [Source of Funds and Wealth Guide](https://help.aspireapp.com/en/articles/9258223-source-of-funds-and-wealth-guide.md)
+- [Proof of Business Guide](https://help.aspireapp.com/en/articles/9284031-proof-of-business-guide.md)
+- [Why does Aspire request constitutional documents?](https://help.aspireapp.com/en/articles/10037932-why-does-aspire-request-constitutional-documents.md)
+- [How to Add My Other Company or Business Entity](https://help.aspireapp.com/en/articles/9258270-how-to-add-my-other-company-or-business-entity.md)
+- [Where can I upload and view the required documents via in-app?](https://help.aspireapp.com/en/articles/9258298-where-can-i-upload-and-view-the-required-documents-via-in-app.md)
+- [How to Enable the Camera for Registration via Web App](https://help.aspireapp.com/en/articles/9258390-how-to-enable-the-camera-for-registration-via-web-app.md)
+- [What languages does Aspire accept for submitted documents?](https://help.aspireapp.com/en/articles/9258490-what-languages-does-aspire-accept-for-submitted-documents.md)
+- [I've input the wrong phone number in the Account Opening Registration Form](https://help.aspireapp.com/en/articles/9258210-i-ve-input-the-wrong-phone-number-in-the-account-opening-registration-form.md)
+- [What is a UBO?](https://help.aspireapp.com/en/articles/11547882-what-is-a-ubo.md)
+- [Can the same mobile number be used with a different email, or vice versa, when registering for another Aspire account?](https://help.aspireapp.com/en/articles/9296094-can-the-same-mobile-number-be-used-with-a-different-email-or-vice-versa-when-registering-for-another-aspire-account.md)
+- [What should I do if Aspire indicates that my email, phone, or business registration number is already in use?](https://help.aspireapp.com/en/articles/12252323-what-should-i-do-if-aspire-indicates-that-my-email-phone-or-business-registration-number-is-already-in-use.md)
+- [Why is document verification necessary?](https://help.aspireapp.com/en/articles/9571141-why-is-document-verification-necessary.md)
+- [How to Save Your Account Opening Registration Progress](https://help.aspireapp.com/en/articles/10005104-how-to-save-your-account-opening-registration-progress.md)
+- [Why Was My Account Opening Request Rejected?](https://help.aspireapp.com/en/articles/13149110-why-was-my-account-opening-request-rejected.md)
+- [Why is my Aspire Account not accessible?](https://help.aspireapp.com/en/articles/15008563-why-is-my-aspire-account-not-accessible.md)
+- [How to Renew ACRA Registration for Sole Proprietorship/Partnerships/Limited Partnership?](https://help.aspireapp.com/en/articles/9229628-how-to-renew-acra-registration-for-sole-proprietorship-partnerships-limited-partnership.md): Renew your Sole Proprietorship/Partnership/Limited Partnership registration 60 days before expiry as per ACRA
+- [How to Incorporate a Business in Singapore?](https://help.aspireapp.com/en/articles/9239679-how-to-incorporate-a-business-in-singapore.md): Incorporating a business in Singapore is said to be easy if you know your way.
+- [What are the Different Types of Company Structures in Singapore?](https://help.aspireapp.com/en/articles/9258392-what-are-the-different-types-of-company-structures-in-singapore.md)
+
+### Managing your Account & Subscription
+
+- [How to Add a User](https://help.aspireapp.com/en/articles/9234838-how-to-add-a-user.md)
+- [How to Modify a User Role](https://help.aspireapp.com/en/articles/9234690-how-to-modify-a-user-role.md)
+- [How can an invited user register their account?](https://help.aspireapp.com/en/articles/9234931-how-can-an-invited-user-register-their-account.md): See the steps and documents required for invited users in setting up their Aspire account!
+- [How to log in to your Aspire account for the first time?](https://help.aspireapp.com/en/articles/9235084-how-to-log-in-to-your-aspire-account-for-the-first-time.md)
+- [How to Remove a User](https://help.aspireapp.com/en/articles/9233916-how-to-remove-a-user.md)
+- [How to use Aspire as an Employee User](https://help.aspireapp.com/en/articles/9258499-how-to-use-aspire-as-an-employee-user.md): Use this guide to help you get started using Aspire as an Employee User.
+- [How to Assign Departments & Designations to Existing Users](https://help.aspireapp.com/en/articles/9258527-how-to-assign-departments-designations-to-existing-users.md)
+- [How to grant a user "Payroll" permission?](https://help.aspireapp.com/en/articles/9258547-how-to-grant-a-user-payroll-permission.md): The "Payroll" permission permits users to view individual transfers within a Payroll batch transfer.
+- [Can I Transfer My Aspire User Profile to Someone Else?](https://help.aspireapp.com/en/articles/11079775-can-i-transfer-my-aspire-user-profile-to-someone-else.md)
+- [How to Resend Invitations to Invited Users](https://help.aspireapp.com/en/articles/11143897-how-to-resend-invitations-to-invited-users.md)
+- [How to use Aspire as an Accountant User](https://help.aspireapp.com/en/articles/13284254-how-to-use-aspire-as-an-accountant-user.md)
+- [How to Update Personal Account Details](https://help.aspireapp.com/en/articles/9239786-how-to-update-personal-account-details.md)
+- [How to Update Mobile Number](https://help.aspireapp.com/en/articles/9258733-how-to-update-mobile-number.md): You can update your registered mobile number by going to the Settings page.
+- [How to Update Business Account Details](https://help.aspireapp.com/en/articles/9258904-how-to-update-business-account-details.md)
+- [Who can make changes to my account details?](https://help.aspireapp.com/en/articles/9310415-who-can-make-changes-to-my-account-details.md)
+- [How to Update Email Address](https://help.aspireapp.com/en/articles/11625054-how-to-update-email-address.md)
+- [How to change my password?](https://help.aspireapp.com/en/articles/9276545-how-to-change-my-password.md)
+- [From which countries can I log in?](https://help.aspireapp.com/en/articles/9285325-from-which-countries-can-i-log-in.md)
+- [What is the OTP delivery method for my Aspire account?](https://help.aspireapp.com/en/articles/9285862-what-is-the-otp-delivery-method-for-my-aspire-account.md)
+- [How to Set up a Biometric Authentication](https://help.aspireapp.com/en/articles/9285867-how-to-set-up-a-biometric-authentication.md): If your phone supports it, you can use biometric authentication to add extra security to your login data and transfers.
+- [I forgot my Aspire account password](https://help.aspireapp.com/en/articles/9285888-i-forgot-my-aspire-account-password.md)
+- [How to Set Up Your Trusted Device](https://help.aspireapp.com/en/articles/12330534-how-to-set-up-your-trusted-device.md)
+- [How to Manage your Trusted Device](https://help.aspireapp.com/en/articles/9285930-how-to-manage-your-trusted-device.md)
+- [Trouble Logging in?](https://help.aspireapp.com/en/articles/9427931-trouble-logging-in.md)
+- [Why can't I receive the OTP codes to my phone?](https://help.aspireapp.com/en/articles/9286037-why-can-t-i-receive-the-otp-codes-to-my-phone.md)
+- [Guide to Enabling and Disabling Passkeys](https://help.aspireapp.com/en/articles/9291491-guide-to-enabling-and-disabling-passkeys.md)
+- [How to View My Login Activity](https://help.aspireapp.com/en/articles/9576811-how-to-view-my-login-activity.md)
+- [How to freeze a business account](https://help.aspireapp.com/en/articles/9581967-how-to-freeze-a-business-account.md)
+- [Can I reactivate my Aspire Account once closed?](https://help.aspireapp.com/en/articles/9258417-can-i-reactivate-my-aspire-account-once-closed.md)
+- [Why was my account closed by Aspire?](https://help.aspireapp.com/en/articles/9258918-why-was-my-account-closed-by-aspire.md)
+- [What happens when my Aspire account is frozen or put on hold?](https://help.aspireapp.com/en/articles/9258953-what-happens-when-my-aspire-account-is-frozen-or-put-on-hold.md)
+- [How to Request Aspire Account Closure](https://help.aspireapp.com/en/articles/9259176-how-to-request-aspire-account-closure.md)
+- [How to Bulk Edit Transaction Categories](https://help.aspireapp.com/en/articles/9306854-how-to-bulk-edit-transaction-categories.md)
+- [How to create, edit, and delete categories?](https://help.aspireapp.com/en/articles/9306863-how-to-create-edit-and-delete-categories.md)
+- [Guide to Analytics Page](https://help.aspireapp.com/en/articles/9403647-guide-to-analytics-page.md)
+- [How to Export Data from the Aspire Account](https://help.aspireapp.com/en/articles/9239981-how-to-export-data-from-the-aspire-account.md)
+- [Can I set up daily or scheduled account statements?](https://help.aspireapp.com/en/articles/12106102-can-i-set-up-daily-or-scheduled-account-statements.md)
+- [Why didn’t I receive my monthly account statement?](https://help.aspireapp.com/en/articles/12106174-why-didn-t-i-receive-my-monthly-account-statement.md)
+- [How to Obtain Official Documents from Aspire](https://help.aspireapp.com/en/articles/12106241-how-to-obtain-official-documents-from-aspire.md)
+- [Troubleshooting export and download issues](https://help.aspireapp.com/en/articles/12106652-troubleshooting-export-and-download-issues.md)
+- [How to request an Audit Confirmation Letter for your Aspire Debit Account](https://help.aspireapp.com/en/articles/9258844-how-to-request-an-audit-confirmation-letter-for-your-aspire-debit-account.md)
+- [How to Manage Notification Settings](https://help.aspireapp.com/en/articles/9258403-how-to-manage-notification-settings.md): Customize in-app notifications for transfers, card payments, bills, claims, team activity, updates, and offers.
+- [How to Change Language Settings](https://help.aspireapp.com/en/articles/13148683-how-to-change-language-settings.md)
+- [How to create or reset a Transfer Approval Policy?](https://help.aspireapp.com/en/articles/9239618-how-to-create-or-reset-a-transfer-approval-policy.md): Only Admin users can create or reset the Transfer Approval Policy of the account.
+- [How Transfer Approval Policy Works](https://help.aspireapp.com/en/articles/9239639-how-transfer-approval-policy-works.md)
+- [How to Set Up a Claim Review Policy](https://help.aspireapp.com/en/articles/14814916-how-to-set-up-a-claim-review-policy.md)
+- [My account is inactive. How can I reactivate my Aspire account?](https://help.aspireapp.com/en/articles/9277612-my-account-is-inactive-how-can-i-reactivate-my-aspire-account.md)
+- [Guide to my Subscription's Billing Information](https://help.aspireapp.com/en/articles/9277653-guide-to-my-subscription-s-billing-information.md)
+- [What rewards can I claim by joining Aspire?](https://help.aspireapp.com/en/articles/9286360-what-rewards-can-i-claim-by-joining-aspire.md)
+- [How do I initially activate Google Workspace?](https://help.aspireapp.com/en/articles/9290691-how-do-i-initially-activate-google-workspace.md)
+- [How to Edit your Google Workspace Subscription](https://help.aspireapp.com/en/articles/10549802-how-to-edit-your-google-workspace-subscription.md)
+- [Admin and storage issues with Google Workspace](https://help.aspireapp.com/en/articles/9286373-admin-and-storage-issues-with-google-workspace.md): Below are common Administration and Storage requests relating to your Google Workspace Account
+- [How to Sign Up as an Affiliate Partner of Aspire](https://help.aspireapp.com/en/articles/9286108-how-to-sign-up-as-an-affiliate-partner-of-aspire.md)
+- [How to Refer Someone to Aspire](https://help.aspireapp.com/en/articles/9311466-how-to-refer-someone-to-aspire.md)
+
+### Sending & Receiving Transfers
+
+- [Guide to Sending Local Transfers from Aspire SGD Account](https://help.aspireapp.com/en/articles/9276162-guide-to-sending-local-transfers-from-aspire-sgd-account.md)
+- [How to pay GST from Aspire SGD account?](https://help.aspireapp.com/en/articles/9262968-how-to-pay-gst-from-aspire-sgd-account.md): You can pay your GST via bank transfer using your Aspire SGD account.
+- [Guide to Sending PayNow Transfers](https://help.aspireapp.com/en/articles/9287469-guide-to-sending-paynow-transfers.md)
+- [Where is my refund from a failed PayNow transfer?](https://help.aspireapp.com/en/articles/9263235-where-is-my-refund-from-a-failed-paynow-transfer.md)
+- [Guide to INR Transfers from Aspire SGD Account](https://help.aspireapp.com/en/articles/9264455-guide-to-inr-transfers-from-aspire-sgd-account.md)
+- [Guide to CNH \(CNY\) Transfers from SGD Account](https://help.aspireapp.com/en/articles/9264974-guide-to-cnh-cny-transfers-from-sgd-account.md)
+- [Guide to HKD Transfers from SGD Account](https://help.aspireapp.com/en/articles/9267915-guide-to-hkd-transfers-from-sgd-account.md)
+- [How to Cancel/Recall Outbound Aspire SGD Transfer](https://help.aspireapp.com/en/articles/9258709-how-to-cancel-recall-outbound-aspire-sgd-transfer.md)
+- [How to pay CPF contributions via PayNow?](https://help.aspireapp.com/en/articles/9403791-how-to-pay-cpf-contributions-via-paynow.md)
+- [Foreign Direct Investment \(FDI\) transfers to India from Aspire SGD Account](https://help.aspireapp.com/en/articles/9403821-foreign-direct-investment-fdi-transfers-to-india-from-aspire-sgd-account.md)
+- [How to Fill Out the Batch Transfer Template for Aspire SGD Account](https://help.aspireapp.com/en/articles/10747823-how-to-fill-out-the-batch-transfer-template-for-aspire-sgd-account.md)
+- [What do CEC charges refer to?](https://help.aspireapp.com/en/articles/9271340-what-do-cec-charges-refer-to.md): A CEC charge refers to a transaction with a crypto exchange for the purpose of withdrawing funds from the exchange.
+- [How to Cancel/Recall Outbound Aspire USD Transfer](https://help.aspireapp.com/en/articles/9263314-how-to-cancel-recall-outbound-aspire-usd-transfer.md)
+- [Guide to EUR Transfers from Aspire USD Account](https://help.aspireapp.com/en/articles/9322676-guide-to-eur-transfers-from-aspire-usd-account.md)
+- [Are ACH Debit services available for my business?](https://help.aspireapp.com/en/articles/12619550-are-ach-debit-services-available-for-my-business.md)
+- [Guide to Sending International Transfers from Aspire EUR Account](https://help.aspireapp.com/en/articles/9276584-guide-to-sending-international-transfers-from-aspire-eur-account.md)
+- [Guide to Sending Local Transfers from Aspire HKD, USD, and CNY Account](https://help.aspireapp.com/en/articles/10020801-guide-to-sending-local-transfers-from-aspire-hkd-usd-and-cny-account.md)
+- [Reviewing and Approving Payroll Transfers](https://help.aspireapp.com/en/articles/10798527-reviewing-and-approving-payroll-transfers.md)
+- [How to Duplicate a Payroll Transaction](https://help.aspireapp.com/en/articles/11710552-how-to-duplicate-a-payroll-transaction.md)
+- [How to integrate Aspire account with HReasily for Salary Payments](https://help.aspireapp.com/en/articles/12456026-how-to-integrate-aspire-account-with-hreasily-for-salary-payments.md)
+- [What is the minimum balance required for Aspire multi-currency accounts?](https://help.aspireapp.com/en/articles/9258329-what-is-the-minimum-balance-required-for-aspire-multi-currency-accounts.md)
+- [Guide to SWIFT MT103 and How to Obtain It](https://help.aspireapp.com/en/articles/9249591-guide-to-swift-mt103-and-how-to-obtain-it.md)
+- [How to View, Create, and Delete Recipients in my Aspire Multi-Currency Accounts](https://help.aspireapp.com/en/articles/9245120-how-to-view-create-and-delete-recipients-in-my-aspire-multi-currency-accounts.md)
+- [Why did my transfer rollback?](https://help.aspireapp.com/en/articles/9262982-why-did-my-transfer-rollback.md): An outbound transfer may roll back due to incorrect transfer details or an unexpected error on our end.
+- [Can I request to amend the details of my outbound SWIFT Transfers?](https://help.aspireapp.com/en/articles/9258699-can-i-request-to-amend-the-details-of-my-outbound-swift-transfers.md)
+- [Guide to obtaining a Foreign Inward Remittance Certificate \(FIRC\)](https://help.aspireapp.com/en/articles/9267683-guide-to-obtaining-a-foreign-inward-remittance-certificate-firc.md)
+- [Why is there a transaction I do not recognise on my Aspire multi-currency Accounts?](https://help.aspireapp.com/en/articles/9285320-why-is-there-a-transaction-i-do-not-recognise-on-my-aspire-multi-currency-accounts.md): In our experience, unrecognized transactions may be due to promotions, refunds, or forgotten scheduled payments.
+- [Why do I need to submit certain documents for my transactions?](https://help.aspireapp.com/en/articles/9285911-why-do-i-need-to-submit-certain-documents-for-my-transactions.md): The documents requested are needed to fulfill our due diligence process.
+- [Can I use my Aspire multi-currency accounts to provide charge or debenture for a loan?](https://help.aspireapp.com/en/articles/9286209-can-i-use-my-aspire-multi-currency-accounts-to-provide-charge-or-debenture-for-a-loan.md)
+- [Refund Timeline for Rejected SWIFT Payments from Aspire Debit Accounts](https://help.aspireapp.com/en/articles/9291482-refund-timeline-for-rejected-swift-payments-from-aspire-debit-accounts.md)
+- [How to include 6-point KYC information on my SWIFT transfer?](https://help.aspireapp.com/en/articles/9291584-how-to-include-6-point-kyc-information-on-my-swift-transfer.md)
+- [Why was my inbound transfer rejected?](https://help.aspireapp.com/en/articles/9506394-why-was-my-inbound-transfer-rejected.md)
+- [Aspire’s Transaction Monitoring](https://help.aspireapp.com/en/articles/9818834-aspire-s-transaction-monitoring.md)
+- [Guide to Sending and Receiving International Transfers from Aspire's Alternative FX Partner](https://help.aspireapp.com/en/articles/9267654-guide-to-sending-and-receiving-international-transfers-from-aspire-s-alternative-fx-partner.md): Follow this guide to send and receive international transfers from Aspire's Alternative FX Partner.
+- [How to Attach Files or Receipts for Your Inbound or Outbound Transfer](https://help.aspireapp.com/en/articles/10897336-how-to-attach-files-or-receipts-for-your-inbound-or-outbound-transfer.md)
+- [How to Download an Official Aspire Multi-Currency Accounts Letter](https://help.aspireapp.com/en/articles/11394729-how-to-download-an-official-aspire-multi-currency-accounts-letter.md)
+
+### Yield Account
+
+- [How does Aspire Yield Account work?](https://help.aspireapp.com/en/articles/11079556-how-does-aspire-yield-account-work.md)
+- [Eligibility to Open Aspire Yield Account](https://help.aspireapp.com/en/articles/11374713-eligibility-to-open-aspire-yield-account.md)
+- [Understanding Taxes when Using Yield](https://help.aspireapp.com/en/articles/11374722-understanding-taxes-when-using-yield.md)
+- [How to Activate Aspire Yield Account](https://help.aspireapp.com/en/articles/11374725-how-to-activate-aspire-yield-account.md)
+- [How to Deposit or Withdraw Funds from Aspire Yield Account](https://help.aspireapp.com/en/articles/11374745-how-to-deposit-or-withdraw-funds-from-aspire-yield-account.md)
+- [How to Deactivate Aspire Yield Account](https://help.aspireapp.com/en/articles/11374766-how-to-deactivate-aspire-yield-account.md)
+- [How to Exercise Your Right to Cancel](https://help.aspireapp.com/en/articles/11374770-how-to-exercise-your-right-to-cancel.md)
+- [What do NAV and Units mean in my order statement?](https://help.aspireapp.com/en/articles/11703003-what-do-nav-and-units-mean-in-my-order-statement.md)
+
+### Sending & Receiving Transfers
+
+- [What currency accounts can I open and how do I activate them?](https://help.aspireapp.com/en/articles/13038558-what-currency-accounts-can-i-open-and-how-do-i-activate-them.md)
+- [Aspire Account Name Guidelines for Chinese Companies](https://help.aspireapp.com/en/articles/11925361-aspire-account-name-guidelines-for-chinese-companies.md)
+- [Guide to Sending Local Transfers from Aspire SGD Account](https://help.aspireapp.com/en/articles/13212812-guide-to-sending-local-transfers-from-aspire-sgd-account.md)
+- [How to Fill Out the Batch Transfer Template for Aspire HKD, CNY, or USD Account](https://help.aspireapp.com/en/articles/10755367-how-to-fill-out-the-batch-transfer-template-for-aspire-hkd-cny-or-usd-account.md)
+- [Guide to Sending ARS](https://help.aspireapp.com/en/articles/12787753-guide-to-sending-ars.md)
+- [Guide to Sending AUD](https://help.aspireapp.com/en/articles/12787829-guide-to-sending-aud.md)
+- [Guide to Sending CAD](https://help.aspireapp.com/en/articles/12787884-guide-to-sending-cad.md)
+- [Guide to Sending CHF](https://help.aspireapp.com/en/articles/12787911-guide-to-sending-chf.md)
+- [Guide to Sending CLP](https://help.aspireapp.com/en/articles/12787984-guide-to-sending-clp.md)
+- [Guide to Sending CNY](https://help.aspireapp.com/en/articles/12787999-guide-to-sending-cny.md)
+- [Guide to Sending CRC](https://help.aspireapp.com/en/articles/12788082-guide-to-sending-crc.md)
+- [Guide to Sending DKK](https://help.aspireapp.com/en/articles/12788103-guide-to-sending-dkk.md)
+- [Guide to Sending EGP](https://help.aspireapp.com/en/articles/12788130-guide-to-sending-egp.md)
+- [Guide to Sending HUF](https://help.aspireapp.com/en/articles/12808041-guide-to-sending-huf.md)
+- [Guide to Sending IDR](https://help.aspireapp.com/en/articles/12808116-guide-to-sending-idr.md)
+- [Guide to Sending ILS](https://help.aspireapp.com/en/articles/12808691-guide-to-sending-ils.md)
+- [Guide to Sending INR](https://help.aspireapp.com/en/articles/12808746-guide-to-sending-inr.md)
+- [Guide to Sending JPY](https://help.aspireapp.com/en/articles/12808629-guide-to-sending-jpy.md)
+- [Guide to Sending KES](https://help.aspireapp.com/en/articles/12817464-guide-to-sending-kes.md)
+- [Guide to Sending KRW](https://help.aspireapp.com/en/articles/12817524-guide-to-sending-krw.md)
+- [Guide to Sending MAD](https://help.aspireapp.com/en/articles/12817575-guide-to-sending-mad.md)
+- [Guide to Sending MXN](https://help.aspireapp.com/en/articles/12817641-guide-to-sending-mxn.md)
+- [Guide to Sending MYR](https://help.aspireapp.com/en/articles/12897983-guide-to-sending-myr.md)
+- [Guide to Sending NGN](https://help.aspireapp.com/en/articles/12898333-guide-to-sending-ngn.md)
+- [Guide to Sending NOK](https://help.aspireapp.com/en/articles/12898386-guide-to-sending-nok.md)
+- [Guide to Sending NZD](https://help.aspireapp.com/en/articles/12898429-guide-to-sending-nzd.md)
+- [Guide to Sending PHP](https://help.aspireapp.com/en/articles/12898940-guide-to-sending-php.md)
+- [Guide to Sending PKR](https://help.aspireapp.com/en/articles/12899006-guide-to-sending-pkr.md)
+- [Guide to Sending PLN](https://help.aspireapp.com/en/articles/12899077-guide-to-sending-pln.md)
+- [Guide to Sending RON](https://help.aspireapp.com/en/articles/12899154-guide-to-sending-ron.md)
+- [Guide to Sending SEK](https://help.aspireapp.com/en/articles/12904873-guide-to-sending-sek.md)
+- [Guide to Sending SGD](https://help.aspireapp.com/en/articles/12905068-guide-to-sending-sgd.md)
+- [Guide to Sending THB](https://help.aspireapp.com/en/articles/12905224-guide-to-sending-thb.md)
+- [Guide to Sending TRY](https://help.aspireapp.com/en/articles/12905347-guide-to-sending-try.md)
+- [Guide to Sending UYU](https://help.aspireapp.com/en/articles/12905500-guide-to-sending-uyu.md)
+- [Guide to Sending ZAR](https://help.aspireapp.com/en/articles/12905532-guide-to-sending-zar.md)
+- [Guide to Receiving Local Transfers to Aspire HKD Account](https://help.aspireapp.com/en/articles/11561095-guide-to-receiving-local-transfers-to-aspire-hkd-account.md)
+- [How to Request a Recall, Cancel, or Tracer for an Outbound Transfer](https://help.aspireapp.com/en/articles/11630876-how-to-request-a-recall-cancel-or-tracer-for-an-outbound-transfer.md)
+- [What is the minimum balance required for Aspire multi-currency accounts?](https://help.aspireapp.com/en/articles/11394552-what-is-the-minimum-balance-required-for-aspire-multi-currency-accounts.md)
+- [Why is there a transaction I do not recognise on my Aspire multi-currency Accounts?](https://help.aspireapp.com/en/articles/11575524-why-is-there-a-transaction-i-do-not-recognise-on-my-aspire-multi-currency-accounts.md)
+- [Why was my inbound transfer rejected?](https://help.aspireapp.com/en/articles/11575467-why-was-my-inbound-transfer-rejected.md)
+- [How much funds can I hold in my Aspire Multi-Currency Accounts?](https://help.aspireapp.com/en/articles/11394710-how-much-funds-can-i-hold-in-my-aspire-multi-currency-accounts.md)
+
+### Sending & Receiving Transfers
+
+- [Guide to Sending Local Transfers from Aspire CNY Account](https://help.aspireapp.com/en/articles/12603868-guide-to-sending-local-transfers-from-aspire-cny-account.md)
+- [Guide to ACH Debit](https://help.aspireapp.com/en/articles/11744909-guide-to-ach-debit.md)
+- [Guide to Sending International Transfers from Aspire EUR Account](https://help.aspireapp.com/en/articles/12604097-guide-to-sending-international-transfers-from-aspire-eur-account.md)
+- [Guide to Receiving Local Transfers to Aspire HKD Account](https://help.aspireapp.com/en/articles/12604075-guide-to-receiving-local-transfers-to-aspire-hkd-account.md)
+- [Guide to Receiving Local Transfers to Aspire CNY Account](https://help.aspireapp.com/en/articles/12604087-guide-to-receiving-local-transfers-to-aspire-cny-account.md)
+- [Guide to Receiving International Transfers to Aspire GBP Account](https://help.aspireapp.com/en/articles/12604579-guide-to-receiving-international-transfers-to-aspire-gbp-account.md)
+
+### Manage Your Cards
+
+- [How to Freeze a Virtual or Physical Card](https://help.aspireapp.com/en/articles/9334573-how-to-freeze-a-virtual-or-physical-card.md)
+- [Guide to Currency Lock for Aspire card](https://help.aspireapp.com/en/articles/9337105-guide-to-currency-lock-for-aspire-card.md)
+- [Where is my card refund?](https://help.aspireapp.com/en/articles/9271196-where-is-my-card-refund.md)
+- [How to review the submitted Aspire card request?](https://help.aspireapp.com/en/articles/9271208-how-to-review-the-submitted-aspire-card-request.md)
+- [Guide to Cancelling Aspire Cards](https://help.aspireapp.com/en/articles/9271280-guide-to-cancelling-aspire-cards.md): Canceling your virtual or physical card is done by Admin and Budget Owners via your Aspire Account.
+- [What is the maximum limit I can spend on my virtual and physical cards?](https://help.aspireapp.com/en/articles/9324605-what-is-the-maximum-limit-i-can-spend-on-my-virtual-and-physical-cards.md)
+- [There has been a deduction from my Aspire Card, but the payment failed on the merchant's website.](https://help.aspireapp.com/en/articles/9334555-there-has-been-a-deduction-from-my-aspire-card-but-the-payment-failed-on-the-merchant-s-website.md)
+- [Guide to Merchant Lock for Aspire card](https://help.aspireapp.com/en/articles/9336995-guide-to-merchant-lock-for-aspire-card.md)
+- [How to Set or Update the Spending Limit on Aspire Cards](https://help.aspireapp.com/en/articles/9609226-how-to-set-or-update-the-spending-limit-on-aspire-cards.md)
+- [How to Retrieve the META Verification Code for Aspire Card Transactions](https://help.aspireapp.com/en/articles/11059171-how-to-retrieve-the-meta-verification-code-for-aspire-card-transactions.md)
+- [How to Replace Aspire Virtual Card](https://help.aspireapp.com/en/articles/9271312-how-to-replace-aspire-virtual-card.md)
+- [My Aspire Virtual Card is Expiring/Expired](https://help.aspireapp.com/en/articles/9928579-my-aspire-virtual-card-is-expiring-expired.md)
+- [How to Reset the Physical Card PIN](https://help.aspireapp.com/en/articles/9271371-how-to-reset-the-physical-card-pin.md)
+- [What is the cost of a physical card?](https://help.aspireapp.com/en/articles/9337172-what-is-the-cost-of-a-physical-card.md)
+- [Guide to activating Aspire Physical card](https://help.aspireapp.com/en/articles/9337194-guide-to-activating-aspire-physical-card.md)
+- [My Aspire Physical Card is Expiring/Expired](https://help.aspireapp.com/en/articles/11579576-my-aspire-physical-card-is-expiring-expired.md)
+- [Why is my purchase on Tokopedia and Blibli being rejected?](https://help.aspireapp.com/en/articles/9324577-why-is-my-purchase-on-tokopedia-and-blibli-being-rejected.md)
+- [Guide to increasing Aspire Advance Limit](https://help.aspireapp.com/en/articles/9334420-guide-to-increasing-aspire-advance-limit.md)
+- [Guide to Aspire Advance Limit Repayment](https://help.aspireapp.com/en/articles/9329592-guide-to-aspire-advance-limit-repayment.md)
+- [How to link my Aspire cards to PayPal?](https://help.aspireapp.com/en/articles/9324690-how-to-link-my-aspire-cards-to-paypal.md)
+- [How to link the Aspire card with Apple Pay](https://help.aspireapp.com/en/articles/9336424-how-to-link-the-aspire-card-with-apple-pay.md)
+- [My Aspire card is restricted from making payments on Facebook](https://help.aspireapp.com/en/articles/9337149-my-aspire-card-is-restricted-from-making-payments-on-facebook.md)
+- [What happens if I enter the wrong PIN three times?](https://help.aspireapp.com/en/articles/9563951-what-happens-if-i-enter-the-wrong-pin-three-times.md)
+- [How to send receipt requests on outbound transactions?](https://help.aspireapp.com/en/articles/9261790-how-to-send-receipt-requests-on-outbound-transactions.md): Users can be notified to add receipts to their transactions by Admins, Finance, and Budget Owners either manually or through automation.
+- [How to Upload and Match Receipts on Transactions](https://help.aspireapp.com/en/articles/9262514-how-to-upload-and-match-receipts-on-transactions.md): Users can either manually or auto-match receipts to transactions!
+
+### Manage Your Cards
+
+- [What is the maximum limit I can spend on my virtual and physical cards?](https://help.aspireapp.com/en/articles/11575791-what-is-the-maximum-limit-i-can-spend-on-my-virtual-and-physical-cards.md)
+- [What are the card exchange rates?](https://help.aspireapp.com/en/articles/11579657-what-are-the-card-exchange-rates.md)
+- [How to Link Aspire Card with Google Wallet](https://help.aspireapp.com/en/articles/12065845-how-to-link-aspire-card-with-google-wallet.md)
+- [How to reduce the risk of my card information being misused?](https://help.aspireapp.com/en/articles/11580996-how-to-reduce-the-risk-of-my-card-information-being-misused.md)
+- [Guide to Raising a Dispute for Aspire Card Transactions](https://help.aspireapp.com/en/articles/11659423-guide-to-raising-a-dispute-for-aspire-card-transactions.md): Raise dispute for unauthorized transactions directly in-app!
+
+### Managing Your Corporate Cards
+
+- [Guide to Withdrawing Funds from Your Corporate Cards Collateral Account](https://help.aspireapp.com/en/articles/12058494-guide-to-withdrawing-funds-from-your-corporate-cards-collateral-account.md)
+- [Guide to Increasing Corporate Card Limit](https://help.aspireapp.com/en/articles/11692510-guide-to-increasing-corporate-card-limit.md)
+- [Understanding your Corporate Cards](https://help.aspireapp.com/en/articles/11692466-understanding-your-corporate-cards.md)
+- [Guide to Creating Virtual Corporate Cards](https://help.aspireapp.com/en/articles/11388350-guide-to-creating-virtual-corporate-cards.md)
+- [Guide to Creating Physical Corporate Cards](https://help.aspireapp.com/en/articles/13173548-guide-to-creating-physical-corporate-cards.md)
+- [How to Activate Physical Corporate Cards](https://help.aspireapp.com/en/articles/13175941-how-to-activate-physical-corporate-cards.md)
+- [How to Set or Update the Spending Limit on Corporate Cards](https://help.aspireapp.com/en/articles/12058669-how-to-set-or-update-the-spending-limit-on-corporate-cards.md)
+- [Guide to Currency Lock for your cards](https://help.aspireapp.com/en/articles/12058799-guide-to-currency-lock-for-your-cards.md)
+- [Guide to Merchant Lock for your cards](https://help.aspireapp.com/en/articles/12058864-guide-to-merchant-lock-for-your-cards.md)
+- [The merchant asked for a billing address during checkout. Which address should I use?](https://help.aspireapp.com/en/articles/13049958-the-merchant-asked-for-a-billing-address-during-checkout-which-address-should-i-use.md)
+- [How to Edit Physical Card Details](https://help.aspireapp.com/en/articles/13174771-how-to-edit-physical-card-details.md)
+- [How to Cancel, Freeze, or Replace your cards](https://help.aspireapp.com/en/articles/13175439-how-to-cancel-freeze-or-replace-your-cards.md)
+- [How to Link Corporate Cards with Google Wallet](https://help.aspireapp.com/en/articles/12913683-how-to-link-corporate-cards-with-google-wallet.md)
+- [How to Link Corporate Cards with Apple Pay](https://help.aspireapp.com/en/articles/12916048-how-to-link-corporate-cards-with-apple-pay.md)
+- [Understanding the Breakdown of Charge Cards’ Available Limit](https://help.aspireapp.com/en/articles/11692574-understanding-the-breakdown-of-charge-cards-available-limit.md)
+- [Guide on Refunds for Corporate Cards](https://help.aspireapp.com/en/articles/11692610-guide-on-refunds-for-corporate-cards.md)
+- [Guide to Corporate Card Repayment](https://help.aspireapp.com/en/articles/11390300-guide-to-corporate-card-repayment.md)
+
+### Manage Receivables
+
+- [How to Enable Stripe on Invoices & Payment Links](https://help.aspireapp.com/en/articles/10623901-how-to-enable-stripe-on-invoices-payment-links.md)
+- [How to View the Payment Status of Invoices and Payment Links paid via Stripe](https://help.aspireapp.com/en/articles/10623945-how-to-view-the-payment-status-of-invoices-and-payment-links-paid-via-stripe.md)
+- [How does Stripe Payout work for Invoices and Payment Links](https://help.aspireapp.com/en/articles/10660225-how-does-stripe-payout-work-for-invoices-and-payment-links.md)
+- [How to edit my Receivables and Business Details on Invoices and Payment Links](https://help.aspireapp.com/en/articles/9291089-how-to-edit-my-receivables-and-business-details-on-invoices-and-payment-links.md): Follow this guide to edit your receivables and business details on your generated Invoices and Payment Links.
+- [Can I download receipts for paid invoices or payment links?](https://help.aspireapp.com/en/articles/11999294-can-i-download-receipts-for-paid-invoices-or-payment-links.md)
+- [Can I Receive Payments from my Customers via Cards?](https://help.aspireapp.com/en/articles/12064884-can-i-receive-payments-from-my-customers-via-cards.md)
+- [Stripe Payment Methods for Invoices and Payment Links](https://help.aspireapp.com/en/articles/11651051-stripe-payment-methods-for-invoices-and-payment-links.md)
+- [Guide to Creating Invoices](https://help.aspireapp.com/en/articles/11659506-guide-to-creating-invoices.md): Follow this guide to create Invoices from your Aspire app.
+- [Guide to Editing Invoices](https://help.aspireapp.com/en/articles/9291421-guide-to-editing-invoices.md)
+
+### Manage Receivables
+
+- [How does payment reconciliation work for Invoices & Payment Links?](https://help.aspireapp.com/en/articles/9291647-how-does-payment-reconciliation-work-for-invoices-payment-links.md)
+- [How to Edit or Delete Customer Details for Invoices and Payment Links](https://help.aspireapp.com/en/articles/9291484-how-to-edit-or-delete-customer-details-for-invoices-and-payment-links.md)
+- [How does Stripe Payout work for Invoices and Payment Links](https://help.aspireapp.com/en/articles/12231916-how-does-stripe-payout-work-for-invoices-and-payment-links.md)
+- [Guide to Deleting Invoices](https://help.aspireapp.com/en/articles/11596063-guide-to-deleting-invoices.md)
+
+### Manage Spend
+
+- [Understanding Claims Feature](https://help.aspireapp.com/en/articles/9298746-understanding-claims-feature.md)
+- [How to Submit a Claim](https://help.aspireapp.com/en/articles/14813931-how-to-submit-a-claim.md)
+- [How to Freeze and Unfreeze a Budget?](https://help.aspireapp.com/en/articles/11587047-how-to-freeze-and-unfreeze-a-budget.md): Only admin users can freeze or reactivate a budget.
+- [Guide to Adding Budget Members](https://help.aspireapp.com/en/articles/11650986-guide-to-adding-budget-members.md): A budget member is someone who can be issued cards to spend and assign their claims within that budget.
+- [Guide to Creating or Linking Cards to Budgets](https://help.aspireapp.com/en/articles/14806239-guide-to-creating-or-linking-cards-to-budgets.md): Admins or Budget Owners can easily add a virtual/physical card or link an existing card to their budget.
+
+### Procurement 
+
+- [How to Submit a Bill](https://help.aspireapp.com/en/articles/11651021-how-to-submit-a-bill.md)
+- [How to Review and Pay Submitted Bills](https://help.aspireapp.com/en/articles/11454041-how-to-review-and-pay-submitted-bills.md)
+- [Guide to Vendor Management on Aspire](https://help.aspireapp.com/en/articles/15445519-guide-to-vendor-management-on-aspire.md)
+- [How to Create a Vendor](https://help.aspireapp.com/en/articles/15449742-how-to-create-a-vendor.md)
+- [How to Approve or Reject a Vendor](https://help.aspireapp.com/en/articles/15449913-how-to-approve-or-reject-a-vendor.md)
+- [Guide to Vendor Settings and Form Fields](https://help.aspireapp.com/en/articles/15449980-guide-to-vendor-settings-and-form-fields.md)
+- [Guide to Viewing Vendor Details and Associated Activity](https://help.aspireapp.com/en/articles/15450130-guide-to-viewing-vendor-details-and-associated-activity.md)
+- [Guide to Spend Requests](https://help.aspireapp.com/en/articles/15502803-guide-to-spend-requests.md)
+- [How to Submit a Spend Request](https://help.aspireapp.com/en/articles/15502881-how-to-submit-a-spend-request.md)
+- [How to Review and Approve a Spend Request](https://help.aspireapp.com/en/articles/15503012-how-to-review-and-approve-a-spend-request.md)
+- [Guide to Spend Request Statuses](https://help.aspireapp.com/en/articles/15503120-guide-to-spend-request-statuses.md)
+- [Guide to Spend Request Settings and Form Fields](https://help.aspireapp.com/en/articles/15503133-guide-to-spend-request-settings-and-form-fields.md)
+- [Guide to Purchase Orders on Aspire](https://help.aspireapp.com/en/articles/15503261-guide-to-purchase-orders-on-aspire.md)
+- [How to Create a Purchase Order](https://help.aspireapp.com/en/articles/15503306-how-to-create-a-purchase-order.md)
+- [How to Link Bills to a Purchase Order](https://help.aspireapp.com/en/articles/15503344-how-to-link-bills-to-a-purchase-order.md)
+- [Guide to PO Settings and 2-Way Matching](https://help.aspireapp.com/en/articles/15503360-guide-to-po-settings-and-2-way-matching.md)
+- [How to Issue a Card within a Purchase Order](https://help.aspireapp.com/en/articles/15503373-how-to-issue-a-card-within-a-purchase-order.md)
+- [Guide to PO Statuses](https://help.aspireapp.com/en/articles/15503437-guide-to-po-statuses.md)
+
+### Managing Spend 
+
+- [How to Pay Claims](https://help.aspireapp.com/en/articles/11659493-how-to-pay-claims.md)
+- [How does Stripe Payout work for Invoices and Payment Links](https://help.aspireapp.com/en/articles/12380978-how-does-stripe-payout-work-for-invoices-and-payment-links.md)
+
+### Integrating with other platforms 
+
+- [Guide to Syncing Expenses from Aspire to Xero](https://help.aspireapp.com/en/articles/9306895-guide-to-syncing-expenses-from-aspire-to-xero.md)
+- [How to Sync or Import Bills from Aspire to Xero](https://help.aspireapp.com/en/articles/9307065-how-to-sync-or-import-bills-from-aspire-to-xero.md)
+- [Guide to Syncing Expenses with NetSuite from Aspire](https://help.aspireapp.com/en/articles/9240235-guide-to-syncing-expenses-with-netsuite-from-aspire.md)
+- [Guide to Syncing NetSuite Custom Fields](https://help.aspireapp.com/en/articles/15532471-guide-to-syncing-netsuite-custom-fields.md)
+- [How to integrate Aspire Account with NetSuite?](https://help.aspireapp.com/en/articles/9240303-how-to-integrate-aspire-account-with-netsuite.md): Admins can choose between setting up automatic imports or manually importing account statements from Aspire to NetSuite.
+- [How to sync Advance Limit Statements to Netsuite?](https://help.aspireapp.com/en/articles/9276728-how-to-sync-advance-limit-statements-to-netsuite.md): Users can now sync Advance Limits statements as payables to Netsuite!
+- [Guide to Syncing Expenses to NetSuite](https://help.aspireapp.com/en/articles/11603072-guide-to-syncing-expenses-to-netsuite.md)
+- [How to Integrate the Aspire account with QuickBooks?](https://help.aspireapp.com/en/articles/9276939-how-to-integrate-the-aspire-account-with-quickbooks.md)
+- [Quickbooks Expense / Bills sync](https://help.aspireapp.com/en/articles/15433278-quickbooks-expense-bills-sync.md)
+- [How to integrate Aspire account with Jurnal?](https://help.aspireapp.com/en/articles/9276704-how-to-integrate-aspire-account-with-jurnal.md)
+- [How to integrate Aspire account with SAP Business One?](https://help.aspireapp.com/en/articles/9277514-how-to-integrate-aspire-account-with-sap-business-one.md)
+- [How to integrate with other accounting platforms?](https://help.aspireapp.com/en/articles/9276683-how-to-integrate-with-other-accounting-platforms.md): Your Aspire account can export accounting data in several popular formats.
+- [How to Integrate Aspire Account with Osome](https://help.aspireapp.com/en/articles/10756829-how-to-integrate-aspire-account-with-osome.md)
+- [Can I link my Aspire Account to Etsy for payouts?](https://help.aspireapp.com/en/articles/9285171-can-i-link-my-aspire-account-to-etsy-for-payouts.md)
+- [Can I link my Aspire SGD Account to Qoo10?](https://help.aspireapp.com/en/articles/9285190-can-i-link-my-aspire-sgd-account-to-qoo10.md)
+- [Can I link Aspire SGD Account to Shopee for payouts?](https://help.aspireapp.com/en/articles/9285195-can-i-link-aspire-sgd-account-to-shopee-for-payouts.md)
+- [Can I link my Aspire Accounts to Adyen for payouts?](https://help.aspireapp.com/en/articles/11645183-can-i-link-my-aspire-accounts-to-adyen-for-payouts.md)
+- [Can I link my Aspire Accounts to Dewu for payouts?](https://help.aspireapp.com/en/articles/11659320-can-i-link-my-aspire-accounts-to-dewu-for-payouts.md)
+
+### Integrating with other platforms
+
+- [How to Integrate my Aspire Account with PayPal](https://help.aspireapp.com/en/articles/10660571-how-to-integrate-my-aspire-account-with-paypal.md)
+- [Can I link my Aspire HKD Account to Lian Lian Pay for payouts?](https://help.aspireapp.com/en/articles/11484940-can-i-link-my-aspire-hkd-account-to-lian-lian-pay-for-payouts.md)
+- [Can I link my Aspire HKD Account to HKTV Mall for payouts](https://help.aspireapp.com/en/articles/11484953-can-i-link-my-aspire-hkd-account-to-hktv-mall-for-payouts.md)
+- [Can I link my Aspire Accounts to Shopify for payouts?](https://help.aspireapp.com/en/articles/11484956-can-i-link-my-aspire-accounts-to-shopify-for-payouts.md)
+- [Can I link my Aspire Accounts to Adyen for payouts?](https://help.aspireapp.com/en/articles/11645188-can-i-link-my-aspire-accounts-to-adyen-for-payouts.md)
+- [Can I link my Aspire Accounts to Stripe for payouts?](https://help.aspireapp.com/en/articles/11659271-can-i-link-my-aspire-accounts-to-stripe-for-payouts.md)
+- [Can I link my Aspire Accounts to KPay for payouts?](https://help.aspireapp.com/en/articles/11659361-can-i-link-my-aspire-accounts-to-kpay-for-payouts.md)
+- [Can I link my Aspire Accounts to Temu for payouts?](https://help.aspireapp.com/en/articles/11659365-can-i-link-my-aspire-accounts-to-temu-for-payouts.md)
+- [Can I link my Aspire Debit Accounts to PayPal for payouts?](https://help.aspireapp.com/en/articles/11659724-can-i-link-my-aspire-debit-accounts-to-paypal-for-payouts.md)
+- [Can I link my Aspire Accounts to Aliexpress for payouts?](https://help.aspireapp.com/en/articles/11659272-can-i-link-my-aspire-accounts-to-aliexpress-for-payouts.md)
+- [Can I link my Aspire Accounts to Amazon for payouts?](https://help.aspireapp.com/en/articles/11617814-can-i-link-my-aspire-accounts-to-amazon-for-payouts.md)
+
+### Integrating with other platforms
+
+- [How to integrate and disconnect Xero from an Aspire Account?](https://help.aspireapp.com/en/articles/9307019-how-to-integrate-and-disconnect-xero-from-an-aspire-account.md)
+- [Guide to Enabling Plaid Integration](https://help.aspireapp.com/en/articles/12469491-guide-to-enabling-plaid-integration.md)
+
+### Safety & Security
+
+- [What licenses does Aspire hold?](https://help.aspireapp.com/en/articles/9296033-what-licenses-does-aspire-hold.md)
+- [Are my funds safe?](https://help.aspireapp.com/en/articles/9296013-are-my-funds-safe.md)
+- [Is Aspire a bank?](https://help.aspireapp.com/en/articles/9296086-is-aspire-a-bank.md)
+- [Funds Held for Singapore-based Businesses](https://help.aspireapp.com/en/articles/10001381-funds-held-for-singapore-based-businesses.md)
+- [Is the Aspire system secure?](https://help.aspireapp.com/en/articles/9285918-is-the-aspire-system-secure.md)
+- [Is Aspire exposed to SVB?](https://help.aspireapp.com/en/articles/9285316-is-aspire-exposed-to-svb.md)
+- [Is my Data Protected?](https://help.aspireapp.com/en/articles/9285855-is-my-data-protected.md)
+- [How to Protect my Account from Fraud and Unauthorized access](https://help.aspireapp.com/en/articles/9296092-how-to-protect-my-account-from-fraud-and-unauthorized-access.md): Here are some practical steps you can take to protect your account from any fraud and unauthorized access.
+- [Be Aware of Phishing Attempts](https://help.aspireapp.com/en/articles/11579221-be-aware-of-phishing-attempts.md)
+
+### AspireX FAQs
+
+- [Getting Started](https://help.aspireapp.com/en/articles/15433833-getting-started.md)
+- [Licensing & Compliance](https://help.aspireapp.com/en/articles/15433901-licensing-compliance.md)
+- [Collections and Payouts](https://help.aspireapp.com/en/articles/15433948-collections-and-payouts.md)
+- [Card Issuance](https://help.aspireapp.com/en/articles/15433982-card-issuance.md)
+
+###  Aspire MCP
+
+- [What is the Aspire MCP connector?](https://help.aspireapp.com/en/articles/15550480-what-is-the-aspire-mcp-connector.md)
+- [Security & Privacy](https://help.aspireapp.com/en/articles/15550809-security-privacy.md)
+- [What Can I Do with Aspire MCP?](https://help.aspireapp.com/en/articles/15550829-what-can-i-do-with-aspire-mcp.md)
+- [Troubleshooting & Support](https://help.aspireapp.com/en/articles/15550866-troubleshooting-support.md)
+
+### Others
+
+- [Basic troubleshooting guide for Aspire website and Aspire mobile app](https://help.aspireapp.com/en/articles/9286128-basic-troubleshooting-guide-for-aspire-website-and-aspire-mobile-app.md)
+- [How to request a new feature in the Aspire app?](https://help.aspireapp.com/en/articles/9286146-how-to-request-a-new-feature-in-the-aspire-app.md): We love feedback and always appreciate customer feature requests.
+- [Does Aspire have a Physical Branch?](https://help.aspireapp.com/en/articles/9286174-does-aspire-have-a-physical-branch.md)
+- [Where can I download Aspire's mobile application?](https://help.aspireapp.com/en/articles/9286195-where-can-i-download-aspire-s-mobile-application.md): Manage your finances anytime, anywhere, using our Aspire mobile application!
+- [How to report a bug?](https://help.aspireapp.com/en/articles/9286218-how-to-report-a-bug.md)
+- [How do I make a complaint?](https://help.aspireapp.com/en/articles/9626035-how-do-i-make-a-complaint.md)
+- [Can Aspire guide me on legal matters involving company directors and shareholders?](https://help.aspireapp.com/en/articles/9685734-can-aspire-guide-me-on-legal-matters-involving-company-directors-and-shareholders.md)
+- [Can I Install the Aspire App on my Huawei Device?](https://help.aspireapp.com/en/articles/9889582-can-i-install-the-aspire-app-on-my-huawei-device.md)
+- [Eligibility for Spend Management and Corporate Cards](https://help.aspireapp.com/en/articles/9936509-eligibility-for-spend-management-and-corporate-cards.md)
+- [Respectful Interaction Guidelines](https://help.aspireapp.com/en/articles/10382236-respectful-interaction-guidelines.md)
+- [How do I log out of my Aspire Account?](https://help.aspireapp.com/en/articles/11847231-how-do-i-log-out-of-my-aspire-account.md)
+- [Aspire Navigation Guide](https://help.aspireapp.com/en/articles/14458282-aspire-navigation-guide.md): Updated Navigation Guide for Aspire Webapp
+- [How do I switch to my other Aspire Accounts?](https://help.aspireapp.com/en/articles/12040990-how-do-i-switch-to-my-other-aspire-accounts.md)
+- [How do I start a chat on WeChat?](https://help.aspireapp.com/en/articles/15456419-how-do-i-start-a-chat-on-wechat.md)
+
+## 简体中文
+
+### 开设您的账户
+
+- [Aspire 提供哪些服务？](https://help.aspireapp.com/zh-CN/articles/9234574-aspire-提供哪些服务.md)
+- [Aspire 支持哪些国家？](https://help.aspireapp.com/zh-CN/articles/9239713-aspire-支持哪些国家.md)
+- [如何完成 Aspire 生物识别验证](https://help.aspireapp.com/zh-CN/articles/12114489-如何完成-aspire-生物识别验证.md)
+- [如何申请 Aspire 账户？](https://help.aspireapp.com/zh-CN/articles/9324513-如何申请-aspire-账户.md)
+- [Aspire 是否为基金和特殊目的公司（SPVs）提供服务？](https://help.aspireapp.com/zh-CN/articles/9250262-aspire-是否为基金和特殊目的公司-spvs-提供服务.md)
+- [新加坡注册公司的账户开设指南](https://help.aspireapp.com/zh-CN/articles/9250429-新加坡注册公司的账户开设指南.md): 开设 Aspire 账户所需的文件取决于您机构的复杂性。
+- [香港注册公司的账户开设指南](https://help.aspireapp.com/zh-CN/articles/9258095-香港注册公司的账户开设指南.md): 开设 Aspire 账户所需的文件取决于您机构的复杂性。
+- [其他国家公司的账户开设指南](https://help.aspireapp.com/zh-CN/articles/9240218-其他国家公司的账户开设指南.md): 开设 Aspire 账户所需的文件取决于您机构的复杂性。
+- [资金和财富来源指南](https://help.aspireapp.com/zh-CN/articles/9258223-资金和财富来源指南.md)
+- [营业证明](https://help.aspireapp.com/zh-CN/articles/9284031-营业证明.md)
+- [为什么 Aspire 需要提供公司章程文件？](https://help.aspireapp.com/zh-CN/articles/10037932-为什么-aspire-需要提供公司章程文件.md)
+- [非印尼注册公司的IDR账户开设指南](https://help.aspireapp.com/zh-CN/articles/9258136-非印尼注册公司的idr账户开设指南.md)
+- [如何添加我的其它公司或企业实体？](https://help.aspireapp.com/zh-CN/articles/9258270-如何添加我的其它公司或企业实体.md)
+- [我如何在应用程序内查看并上传所需文件？](https://help.aspireapp.com/zh-CN/articles/9258298-我如何在应用程序内查看并上传所需文件.md)
+- [如何在网络应用程序上启用摄像头进行注册？](https://help.aspireapp.com/zh-CN/articles/9258390-如何在网络应用程序上启用摄像头进行注册.md)
+- [Aspire 接受哪些语言的提交文件？](https://help.aspireapp.com/zh-CN/articles/9258490-aspire-接受哪些语言的提交文件.md)
+- [我在账户开设注册表格中输入了错误的电话号码](https://help.aspireapp.com/zh-CN/articles/9258210-我在账户开设注册表格中输入了错误的电话号码.md)
+- [什么是最终受益人（UBO）？](https://help.aspireapp.com/zh-CN/articles/11547882-什么是最终受益人-ubo.md)
+- [在注册另一个 Aspire 账户时，是否可以使用相同的手机号码但不同的电子邮件地址，或相同的电子邮件地址但不同的手机号码？](https://help.aspireapp.com/zh-CN/articles/9296094-在注册另一个-aspire-账户时-是否可以使用相同的手机号码但不同的电子邮件地址-或相同的电子邮件地址但不同的手机号码.md)
+- [如果系统提示我的邮箱、手机号或公司注册号已被使用，我该怎么办？](https://help.aspireapp.com/zh-CN/articles/12252323-如果系统提示我的邮箱-手机号或公司注册号已被使用-我该怎么办.md)
+- [为什么需要进行文件验证？](https://help.aspireapp.com/zh-CN/articles/9571141-为什么需要进行文件验证.md)
+- [如何保存开户注册进度](https://help.aspireapp.com/zh-CN/articles/10005104-如何保存开户注册进度.md)
+- [如何为独资企业 / 合伙企业 / 有限合伙企业更新 ACRA 注册？](https://help.aspireapp.com/zh-CN/articles/9229628-如何为独资企业-合伙企业-有限合伙企业更新-acra-注册.md): 根据 ACRA 的规定，请在独资企业 / 合伙企业 / 有限合伙企业注册到期前60天更新注册。
+- [如何在新加坡成立企业？](https://help.aspireapp.com/zh-CN/articles/9239679-如何在新加坡成立企业.md): 只要您知道如何操作，在新加坡成立企业其实很简单。
+- [新加坡有哪些不同类型的公司结构？](https://help.aspireapp.com/zh-CN/articles/9258392-新加坡有哪些不同类型的公司结构.md)
+
+### 管理您的账户和订阅
+
+- [如何添加用户？](https://help.aspireapp.com/zh-CN/articles/9234838-如何添加用户.md)
+- [如何修改用户角色？](https://help.aspireapp.com/zh-CN/articles/9234690-如何修改用户角色.md): 只有管理员用户可以升级或降级现有用户或待邀请用户的角色。
+- [受邀用户如何注册他们的账户？](https://help.aspireapp.com/zh-CN/articles/9234931-受邀用户如何注册他们的账户.md): 查看受邀用户设置其 Aspire 账户所需的步骤和文件！
+- [如何首次登录您的 Aspire 账户？](https://help.aspireapp.com/zh-CN/articles/9235084-如何首次登录您的-aspire-账户.md)
+- [如何移除用户](https://help.aspireapp.com/zh-CN/articles/9233916-如何移除用户.md): 管理员可以更改现有或待邀请用户的角色或移除其访问权限。
+- [如何以员工用户身份使用 Aspire？](https://help.aspireapp.com/zh-CN/articles/9258499-如何以员工用户身份使用-aspire.md): 使用此指南帮助您以员工用户身份开始使用 Aspire。
+- [如何为现有用户分配部门和职位](https://help.aspireapp.com/zh-CN/articles/9258527-如何为现有用户分配部门和职位.md)
+- [如何授予用户 “工资单 “ 权限？](https://help.aspireapp.com/zh-CN/articles/9258547-如何授予用户-工资单-权限.md): “工资单“ 权限允许用户查看工资批量转账中的单个转账。
+- [我可以将我的 Aspire 用户资料转让给他人吗？](https://help.aspireapp.com/zh-CN/articles/11079775-我可以将我的-aspire-用户资料转让给他人吗.md)
+- [如何更新个人账户信息](https://help.aspireapp.com/zh-CN/articles/9239786-如何更新个人账户信息.md)
+- [如何更新您的手机号码](https://help.aspireapp.com/zh-CN/articles/9258733-如何更新您的手机号码.md): 您可以通过进入设置页面来更新您的注册手机号码。
+- [如何更新企业账户信息](https://help.aspireapp.com/zh-CN/articles/9258904-如何更新企业账户信息.md)
+- [谁可以更改我的账户信息？](https://help.aspireapp.com/zh-CN/articles/9310415-谁可以更改我的账户信息.md)
+- [如何更新您的工作邮箱？](https://help.aspireapp.com/zh-CN/articles/11625054-如何更新您的工作邮箱.md): 您可以通过进入设置页面来更新您的注册电子邮件地址。
+- [如何更改我的密码？](https://help.aspireapp.com/zh-CN/articles/9276545-如何更改我的密码.md)
+- [我可以从哪些国家登录？](https://help.aspireapp.com/zh-CN/articles/9285325-我可以从哪些国家登录.md)
+- [我的 Aspire 账户的一次性密码（OTP）发送方式是什么？](https://help.aspireapp.com/zh-CN/articles/9285862-我的-aspire-账户的一次性密码-otp-发送方式是什么.md)
+- [如何设置生物识别认证](https://help.aspireapp.com/zh-CN/articles/9285867-如何设置生物识别认证.md): 如果您的手机支持，您可以使用生物识别认证为您的登录数据和转账增加额外的安全性。
+- [我忘记了我的 Aspire 账户密码](https://help.aspireapp.com/zh-CN/articles/9285888-我忘记了我的-aspire-账户密码.md)
+- [如何设置您的可信设备/裝置](https://help.aspireapp.com/zh-CN/articles/12330534-如何设置您的可信设备-裝置.md)
+- [如何更改您的两步验证（2FA）方式](https://help.aspireapp.com/zh-CN/articles/9285930-如何更改您的两步验证-2fa-方式.md)
+- [登录时遇到问题？](https://help.aspireapp.com/zh-CN/articles/9427931-登录时遇到问题.md)
+- [为什么我不能接收发送到我手机上的一次性密码（OTP）？](https://help.aspireapp.com/zh-CN/articles/9286037-为什么我不能接收发送到我手机上的一次性密码-otp.md)
+- [如何查看我的登录活动](https://help.aspireapp.com/zh-CN/articles/9576811-如何查看我的登录活动.md)
+- [如何冻结企业账户](https://help.aspireapp.com/zh-CN/articles/9581967-如何冻结企业账户.md)
+- [我可以重新激活已关闭的 Aspire 账户吗？](https://help.aspireapp.com/zh-CN/articles/9258417-我可以重新激活已关闭的-aspire-账户吗.md)
+- [为什么我的账户被 Aspire 关闭了？](https://help.aspireapp.com/zh-CN/articles/9258918-为什么我的账户被-aspire-关闭了.md)
+- [当我的 Aspire 账户被冻结或暂停使用时会发生什么事？](https://help.aspireapp.com/zh-CN/articles/9258953-当我的-aspire-账户被冻结或暂停使用时会发生什么事.md)
+- [如何申请关闭 Aspire 账户](https://help.aspireapp.com/zh-CN/articles/9259176-如何申请关闭-aspire-账户.md)
+- [如何批量编辑交易类别](https://help.aspireapp.com/zh-CN/articles/9306854-如何批量编辑交易类别.md)
+- [如何创建、编辑和删除类别](https://help.aspireapp.com/zh-CN/articles/9306863-如何创建-编辑和删除类别.md)
+- [分析页面指南](https://help.aspireapp.com/zh-CN/articles/9403647-分析页面指南.md)
+- [如何从 Aspire 账户导出数据?](https://help.aspireapp.com/zh-CN/articles/9239981-如何从-aspire-账户导出数据.md): 无缝导出您的账户对账单、预算、卡、发票、报销、费用、账单、付款链接和用户数据！
+- [我可以设置每日或定期的账户对账单吗？](https://help.aspireapp.com/zh-CN/articles/12106102-我可以设置每日或定期的账户对账单吗.md)
+- [为什么我没有收到本月的账户对账单？](https://help.aspireapp.com/zh-CN/articles/12106174-为什么我没有收到本月的账户对账单.md)
+- [如何获取 Aspire 官方文件](https://help.aspireapp.com/zh-CN/articles/12106241-如何获取-aspire-官方文件.md)
+- [导出与下载问题排查指南](https://help.aspireapp.com/zh-CN/articles/12106652-导出与下载问题排查指南.md)
+- [如何为我的 Aspire 借记账户申请审计函？](https://help.aspireapp.com/zh-CN/articles/9258844-如何为我的-aspire-借记账户申请审计函.md)
+- [如何管理通知设置](https://help.aspireapp.com/zh-CN/articles/9258403-如何管理通知设置.md): 自定义应用内通知，包括转账、卡片支付、账单、报销、团队活动、更新和优惠。
+- [如何创建或重置转账审批政策？](https://help.aspireapp.com/zh-CN/articles/9239618-如何创建或重置转账审批政策.md): 只有管理员用户可以创建或重置账户的转账审批政策。
+- [转账审批政策运作方式](https://help.aspireapp.com/zh-CN/articles/9239639-转账审批政策运作方式.md)
+- [我的账户处于非活跃状态。我该如何重新激活我的 Aspire 账户？](https://help.aspireapp.com/zh-CN/articles/9277612-我的账户处于非活跃状态-我该如何重新激活我的-aspire-账户.md)
+- [我的订阅账单信息指南](https://help.aspireapp.com/zh-CN/articles/9277653-我的订阅账单信息指南.md)
+- [加入 Aspire 可以获得哪些奖励？](https://help.aspireapp.com/zh-CN/articles/9286360-加入-aspire-可以获得哪些奖励.md)
+- [我如何初始激活Google Workspace？](https://help.aspireapp.com/zh-CN/articles/9290691-我如何初始激活google-workspace.md)
+- [如何编辑您的 Google Workspace 订阅](https://help.aspireapp.com/zh-CN/articles/10549802-如何编辑您的-google-workspace-订阅.md)
+- [Google Workspace 的管理员和存储空间问题](https://help.aspireapp.com/zh-CN/articles/9286373-google-workspace-的管理员和存储空间问题.md): 以下是与您的 Google Workspace 账户相关的常见管理员和存储空间请求
+- [如何注册成为 Aspire 的联盟合作伙伴](https://help.aspireapp.com/zh-CN/articles/9286108-如何注册成为-aspire-的联盟合作伙伴.md)
+- [如何推荐他人使用 Aspire？](https://help.aspireapp.com/zh-CN/articles/9311466-如何推荐他人使用-aspire.md)
+
+### 发送和接收转账
+
+- [从 Aspire SGD 账户发送本地转账指南](https://help.aspireapp.com/zh-CN/articles/9276162-从-aspire-sgd-账户发送本地转账指南.md)
+- [如何从 Aspire SGD 账户支付 GST？](https://help.aspireapp.com/zh-CN/articles/9262968-如何从-aspire-sgd-账户支付-gst.md): 您可以使用 Aspire SGD 账户通过银行转账支付您的 GST。
+- [发送 PayNow 转账指南](https://help.aspireapp.com/zh-CN/articles/9287469-发送-paynow-转账指南.md)
+- [PayNow 转账失败后的退款在哪里？](https://help.aspireapp.com/zh-CN/articles/9263235-paynow-转账失败后的退款在哪里.md)
+- [从 Aspire SGD 账户进行印度卢比（INR）转账指南](https://help.aspireapp.com/zh-CN/articles/9264455-从-aspire-sgd-账户进行印度卢比-inr-转账指南.md)
+- [从 SGD 账户进行人民币（CNH / CNY）转账指南](https://help.aspireapp.com/zh-CN/articles/9264974-从-sgd-账户进行人民币-cnh-cny-转账指南.md)
+- [从 SGD 账户进行港元（HKD）转账指南](https://help.aspireapp.com/zh-CN/articles/9267915-从-sgd-账户进行港元-hkd-转账指南.md)
+- [如何取消或撤回 Aspire 新加坡元（SGD）的汇出转账](https://help.aspireapp.com/zh-CN/articles/9258709-如何取消或撤回-aspire-新加坡元-sgd-的汇出转账.md)
+- [如何通过 PayNow 支付公积金（CPF）？](https://help.aspireapp.com/zh-CN/articles/9403791-如何通过-paynow-支付公积金-cpf.md)
+- [从 Aspire SGD 账户向印度进行外商直接投资（FDI）转账](https://help.aspireapp.com/zh-CN/articles/9403821-从-aspire-sgd-账户向印度进行外商直接投资-fdi-转账.md)
+- [如何填写 Aspire SGD 账户的批量转账模板](https://help.aspireapp.com/zh-CN/articles/10747823-如何填写-aspire-sgd-账户的批量转账模板.md)
+- [CEC 费用指的是什么？](https://help.aspireapp.com/zh-CN/articles/9271340-cec-费用指的是什么.md): CEC 费用是指为了从交易所提取资金而与加密货币交易所进行的交易。
+- [如何取消或撤回 Aspire 美元（USD）的汇出转账](https://help.aspireapp.com/zh-CN/articles/9263314-如何取消或撤回-aspire-美元-usd-的汇出转账.md)
+- [从 Aspire USD 账户进行欧元（EUR）转账指南](https://help.aspireapp.com/zh-CN/articles/9322676-从-aspire-usd-账户进行欧元-eur-转账指南.md)
+- [我的企业可以使用 ACH 扣款服务吗？](https://help.aspireapp.com/zh-CN/articles/12619550-我的企业可以使用-ach-扣款服务吗.md)
+- [从 Aspire EUR 账户发送国际转账指南](https://help.aspireapp.com/zh-CN/articles/9276584-从-aspire-eur-账户发送国际转账指南.md)
+- [审核和批准工资转账](https://help.aspireapp.com/zh-CN/articles/10798527-审核和批准工资转账.md)
+- [如何复制一笔薪资交易](https://help.aspireapp.com/zh-CN/articles/11710552-如何复制一笔薪资交易.md)
+- [如何将 Aspire 账户与 HReasily 集成以进行薪资支付？](https://help.aspireapp.com/zh-CN/articles/12456026-如何将-aspire-账户与-hreasily-集成以进行薪资支付.md)
+- [Aspire 多币种账户的最低余额要求是多少？](https://help.aspireapp.com/zh-CN/articles/9258329-aspire-多币种账户的最低余额要求是多少.md)
+- [SWIFT MT103 指南及其获取方法](https://help.aspireapp.com/zh-CN/articles/9249591-swift-mt103-指南及其获取方法.md)
+- [如何在 Aspire 多币种账户中查看、创建和删除收款人](https://help.aspireapp.com/zh-CN/articles/9245120-如何在-aspire-多币种账户中查看-创建和删除收款人.md)
+- [为什么我的转账被撤回了？](https://help.aspireapp.com/zh-CN/articles/9262982-为什么我的转账被撤回了.md): 汇款转账可能会因为转账信息错误或我们系统的意外错误而被撤回
+- [我可以请求修改我的 SWIFT 汇出转账的信息吗？](https://help.aspireapp.com/zh-CN/articles/9258699-我可以请求修改我的-swift-汇出转账的信息吗.md)
+- [获取外币汇入汇款证书（FIRC）指南](https://help.aspireapp.com/zh-CN/articles/9267683-获取外币汇入汇款证书-firc-指南.md)
+- [为什么我的 Aspire 多币种账户中有一笔我无法识别的交易？](https://help.aspireapp.com/zh-CN/articles/9285320-为什么我的-aspire-多币种账户中有一笔我无法识别的交易.md): 根据我们的经验，无法识别的交易可能是由于促销活动、退款或遗忘的计划付款所致的。
+- [为什么我需要为我的交易提交特定文件？](https://help.aspireapp.com/zh-CN/articles/9285911-为什么我需要为我的交易提交特定文件.md): 我们需要所要求的文件来履行我们的尽职调查程序。
+- [我可以使用我的 Aspire 多币种账户作为贷款的抵押或债券吗？](https://help.aspireapp.com/zh-CN/articles/9286209-我可以使用我的-aspire-多币种账户作为贷款的抵押或债券吗.md)
+- [Aspire 借记账户上的 SWIFT 付款被拒绝后的退款时间](https://help.aspireapp.com/zh-CN/articles/9291482-aspire-借记账户上的-swift-付款被拒绝后的退款时间.md)
+- [如何在我的 SWIFT 转账中包含六项 KYC 信息？](https://help.aspireapp.com/zh-CN/articles/9291584-如何在我的-swift-转账中包含六项-kyc-信息.md)
+- [为什么我的入账转账被拒绝？](https://help.aspireapp.com/zh-CN/articles/9506394-为什么我的入账转账被拒绝.md)
+- [Aspire 的交易监控](https://help.aspireapp.com/zh-CN/articles/9818834-aspire-的交易监控.md)
+- [通过 Aspire 替代外汇合作伙伴发送和接收国际转账指南](https://help.aspireapp.com/zh-CN/articles/9267654-通过-aspire-替代外汇合作伙伴发送和接收国际转账指南.md): 请按照本指南通过 Aspire 的替代外汇合作伙伴发送和接收国际转账。
+- [如何为您的入账或出账转账上传附件或收据](https://help.aspireapp.com/zh-CN/articles/10897336-如何为您的入账或出账转账上传附件或收据.md)
+- [如何下载 Aspire 多币种账户的官方信函](https://help.aspireapp.com/zh-CN/articles/11394729-如何下载-aspire-多币种账户的官方信函.md)
+
+### Yield Account
+
+- [Aspire 收益账户如何运作](https://help.aspireapp.com/zh-CN/articles/11079556-aspire-收益账户如何运作.md)
+- [开设 Aspire 收益账户的资格要求](https://help.aspireapp.com/zh-CN/articles/11374713-开设-aspire-收益账户的资格要求.md)
+- [使用收益账户的税务须知](https://help.aspireapp.com/zh-CN/articles/11374722-使用收益账户的税务须知.md)
+- [如何激活 Aspire 收益账户](https://help.aspireapp.com/zh-CN/articles/11374725-如何激活-aspire-收益账户.md)
+- [如何在 Aspire 收益账户存入或提取资金](https://help.aspireapp.com/zh-CN/articles/11374745-如何在-aspire-收益账户存入或提取资金.md)
+- [如何停用 Aspire 收益账户](https://help.aspireapp.com/zh-CN/articles/11374766-如何停用-aspire-收益账户.md)
+- [如何行使取消权](https://help.aspireapp.com/zh-CN/articles/11374770-如何行使取消权.md)
+- [我的订单报表中 NAV 和单位代表什么？](https://help.aspireapp.com/zh-CN/articles/11703003-我的订单报表中-nav-和单位代表什么.md)
+
+### 发送和接收转账
+
+- [中国公司的 Aspire 账户名称指南](https://help.aspireapp.com/zh-CN/articles/11925361-中国公司的-aspire-账户名称指南.md)
+- [如何填写 Aspire HKD、CNY 或 USD 账户的批量转账模板](https://help.aspireapp.com/zh-CN/articles/10755367-如何填写-aspire-hkd-cny-或-usd-账户的批量转账模板.md)
+- [新元（SGD）转账指南](https://help.aspireapp.com/zh-CN/articles/12905068-新元-sgd-转账指南.md)
+- [通过 Aspire HKD 账户接收本地转账指南](https://help.aspireapp.com/zh-CN/articles/11561095-通过-aspire-hkd-账户接收本地转账指南.md)
+- [如何申请撤回、取消或追踪一笔出账转账](https://help.aspireapp.com/zh-CN/articles/11630876-如何申请撤回-取消或追踪一笔出账转账.md)
+- [Aspire 多币种账户的最低余额要求是多少？](https://help.aspireapp.com/zh-CN/articles/11394552-aspire-多币种账户的最低余额要求是多少.md)
+- [为什么我的 Aspire 多币种账户中有一笔我无法识别的交易？](https://help.aspireapp.com/zh-CN/articles/11575524-为什么我的-aspire-多币种账户中有一笔我无法识别的交易.md)
+- [为什么我的入账转账被拒绝？](https://help.aspireapp.com/zh-CN/articles/11575467-为什么我的入账转账被拒绝.md)
+- [我可以在 Aspire 多币种账户中持有多少资金？](https://help.aspireapp.com/zh-CN/articles/11394710-我可以在-aspire-多币种账户中持有多少资金.md)
+
+### 管理您的卡和报销
+
+- [如何冻结虚拟卡或实体卡？](https://help.aspireapp.com/zh-CN/articles/9334573-如何冻结虚拟卡或实体卡.md)
+- [Aspire 卡货币限制指南](https://help.aspireapp.com/zh-CN/articles/9337105-aspire-卡货币限制指南.md)
+- [我的卡退款在哪里？](https://help.aspireapp.com/zh-CN/articles/9271196-我的卡退款在哪里.md)
+- [如何审核已提交的 Aspire 卡请求？](https://help.aspireapp.com/zh-CN/articles/9271208-如何审核已提交的-aspire-卡请求.md)
+- [Aspire 卡的取消指南](https://help.aspireapp.com/zh-CN/articles/9271280-aspire-卡的取消指南.md): 管理员和预算负责人可通过您的 Aspire 账户取消您的虚拟卡或实体卡。
+- [我可以在虚拟卡和实体卡上消费的最高限额是多少？](https://help.aspireapp.com/zh-CN/articles/9324605-我可以在虚拟卡和实体卡上消费的最高限额是多少.md)
+- [我的 Aspire 卡已扣款，但在商家网站上显示支付失败。](https://help.aspireapp.com/zh-CN/articles/9334555-我的-aspire-卡已扣款-但在商家网站上显示支付失败.md)
+- [Aspire 卡的商家限制指南](https://help.aspireapp.com/zh-CN/articles/9336995-aspire-卡的商家限制指南.md)
+- [如何设置或更新 Aspire 卡的消费限额](https://help.aspireapp.com/zh-CN/articles/9609226-如何设置或更新-aspire-卡的消费限额.md)
+- [如何获取 Aspire 卡交易的 META 验证码](https://help.aspireapp.com/zh-CN/articles/11059171-如何获取-aspire-卡交易的-meta-验证码.md)
+- [如何替换 Aspire 虚拟卡？](https://help.aspireapp.com/zh-CN/articles/9271312-如何替换-aspire-虚拟卡.md)
+- [我的 Aspire 虚拟卡即将到期/已过期](https://help.aspireapp.com/zh-CN/articles/9928579-我的-aspire-虚拟卡即将到期-已过期.md)
+- [如何重置实体卡的密码？](https://help.aspireapp.com/zh-CN/articles/9271371-如何重置实体卡的密码.md)
+- [实体卡的费用是多少？](https://help.aspireapp.com/zh-CN/articles/9337172-实体卡的费用是多少.md)
+- [激活 Aspire 实体卡指南](https://help.aspireapp.com/zh-CN/articles/9337194-激活-aspire-实体卡指南.md)
+- [我的 Aspire 实体卡即将过期／已过期](https://help.aspireapp.com/zh-CN/articles/11579576-我的-aspire-实体卡即将过期-已过期.md)
+- [卡的外汇兑换汇率是多少？](https://help.aspireapp.com/zh-CN/articles/9270995-卡的外汇兑换汇率是多少.md)
+- [为什么我在 Tokopedia 和 Blibli 上的购买被拒绝？](https://help.aspireapp.com/zh-CN/articles/9324577-为什么我在-tokopedia-和-blibli-上的购买被拒绝.md)
+- [提高 Aspire 预支额度指南](https://help.aspireapp.com/zh-CN/articles/9334420-提高-aspire-预支额度指南.md)
+- [Aspire 预支额度还款指南](https://help.aspireapp.com/zh-CN/articles/9329592-aspire-预支额度还款指南.md)
+- [如何将我的 Aspire 卡关联到贝宝（PayPal）？](https://help.aspireapp.com/zh-CN/articles/9324690-如何将我的-aspire-卡关联到贝宝-paypal.md)
+- [如何将 Aspire 卡与 Apple Pay 关联](https://help.aspireapp.com/zh-CN/articles/9336424-如何将-aspire-卡与-apple-pay-关联.md)
+- [我的 Aspire 卡被限制在 Facebook 上付款](https://help.aspireapp.com/zh-CN/articles/9337149-我的-aspire-卡被限制在-facebook-上付款.md)
+- [如果我输入了三次错误的 PIN 码会怎样？](https://help.aspireapp.com/zh-CN/articles/9563951-如果我输入了三次错误的-pin-码会怎样.md)
+- [如何发送出账转账的收据请求？](https://help.aspireapp.com/zh-CN/articles/9261790-如何发送出账转账的收据请求.md): 管理员、财务和预算负责人可以手动或通过自动方式通知用户将收据添加到其交易中。
+- [如何上传并匹配交易收据](https://help.aspireapp.com/zh-CN/articles/9262514-如何上传并匹配交易收据.md): 用户可以手动或自动将收据与交易匹配！
+
+### 管理您的卡片和报销
+
+- [我可以使用虚拟卡和实体卡消费的最高限额是多少？](https://help.aspireapp.com/zh-CN/articles/11575791-我可以使用虚拟卡和实体卡消费的最高限额是多少.md)
+- [CEC 费用指的是什么？](https://help.aspireapp.com/zh-CN/articles/11579638-cec-费用指的是什么.md): CEC 费用是指为了从交易所提取资金而与加密货币交易所进行的交易。
+- [卡的外汇兑换汇率是多少？](https://help.aspireapp.com/zh-CN/articles/11579657-卡的外汇兑换汇率是多少.md)
+- [如何将 Aspire 卡与 Google Pay 绑定?](https://help.aspireapp.com/zh-CN/articles/12065845-如何将-aspire-卡与-google-pay-绑定.md)
+- [如何降低我的卡的信息被滥用的风险？](https://help.aspireapp.com/zh-CN/articles/11580996-如何降低我的卡的信息被滥用的风险.md)
+- [Aspire 卡交易争议的申诉指南](https://help.aspireapp.com/zh-CN/articles/11659423-aspire-卡交易争议的申诉指南.md): 直接在应用程序内对未经授权的交易提出争议！
+
+### 管理您的应付款和应收款
+
+- [如 何在发票和支付链接中启用 Stripe](https://help.aspireapp.com/zh-CN/articles/10623901-如-何在发票和支付链接中启用-stripe.md)
+- [发票和支付链接的 Stripe 支付方式](https://help.aspireapp.com/zh-CN/articles/10623934-发票和支付链接的-stripe-支付方式.md)
+- [如何查看通过 Stripe 支付的 SGD 发票和支付链接的付款状态](https://help.aspireapp.com/zh-CN/articles/10623945-如何查看通过-stripe-支付的-sgd-发票和支付链接的付款状态.md)
+- [Stripe 收款如何适用于 发票和支付链接](https://help.aspireapp.com/zh-CN/articles/10660225-stripe-收款如何适用于-发票和支付链接.md)
+- [如何在发票和付款链接上编辑我的应收款和企业详情](https://help.aspireapp.com/zh-CN/articles/9291089-如何在发票和付款链接上编辑我的应收款和企业详情.md): 请按照本指南在已生成的发票和付款链接上编辑您的应收款和企业详情。
+- [如何手动将发票和付款链接标记为已付款？](https://help.aspireapp.com/zh-CN/articles/9291746-如何手动将发票和付款链接标记为已付款.md)
+- [是否可以下载已付款的发票或支付链接收据？](https://help.aspireapp.com/zh-CN/articles/11999294-是否可以下载已付款的发票或支付链接收据.md)
+- [我可以通过银行卡收取客户的付款吗？](https://help.aspireapp.com/zh-CN/articles/12064884-我可以通过银行卡收取客户的付款吗.md)
+- [SGD 发票和支付链接的 Stripe 支付方式](https://help.aspireapp.com/zh-CN/articles/11651051-sgd-发票和支付链接的-stripe-支付方式.md)
+- [创建发票指南](https://help.aspireapp.com/zh-CN/articles/11659506-创建发票指南.md): 请按照本指南从您的 Aspire 应用程序创建发票。
+- [发票编辑指南](https://help.aspireapp.com/zh-CN/articles/9291421-发票编辑指南.md)
+
+### 管理您的应付与应收款项
+
+- [发票与付款链接的款项如何进行对账？](https://help.aspireapp.com/zh-CN/articles/9291647-发票与付款链接的款项如何进行对账.md)
+- [如何编辑或删除发票与付款链接中的客户信息](https://help.aspireapp.com/zh-CN/articles/9291484-如何编辑或删除发票与付款链接中的客户信息.md)
+- [删除发票指南](https://help.aspireapp.com/zh-CN/articles/11596063-删除发票指南.md)
+
+### Manage Spend
+
+- [了解报销功能](https://help.aspireapp.com/zh-CN/articles/9298746-了解报销功能.md)
+- [如何提交报销申请](https://help.aspireapp.com/zh-CN/articles/14813931-如何提交报销申请.md)
+- [如何冻结和解冻预算？](https://help.aspireapp.com/zh-CN/articles/11587047-如何冻结和解冻预算.md): 只有管​​理员用户可以冻结或重新激活预算。
+- [添加预算成员指南](https://help.aspireapp.com/zh-CN/articles/11650986-添加预算成员指南.md): 预算会员是指可以使用该卡在预算范围内消费并提交报销的人。
+
+### Procurement 
+
+- [了解账单功能](https://help.aspireapp.com/zh-CN/articles/9296325-了解账单功能.md)
+- [如何提交账单](https://help.aspireapp.com/zh-CN/articles/9296208-如何提交账单.md)
+- [了解账单功能](https://help.aspireapp.com/zh-CN/articles/11588377-了解账单功能.md)
+- [如何提交账单](https://help.aspireapp.com/zh-CN/articles/11651021-如何提交账单.md)
+- [如何审核并支付已提交的账单](https://help.aspireapp.com/zh-CN/articles/11454041-如何审核并支付已提交的账单.md)
+
+### Managing Spend 
+
+- [如何支付报销申请](https://help.aspireapp.com/zh-CN/articles/11659493-如何支付报销申请.md)
+
+### 与其他平台集成
+
+- [如何将支出从 Aspire 同步或导入到 Xero？](https://help.aspireapp.com/zh-CN/articles/9306895-如何将支出从-aspire-同步或导入到-xero.md)
+- [如何将账单从 Aspire 同步或导入到 Xero](https://help.aspireapp.com/zh-CN/articles/9307065-如何将账单从-aspire-同步或导入到-xero.md)
+- [将支出同步到 NetSuite 的指南](https://help.aspireapp.com/zh-CN/articles/9240235-将支出同步到-netsuite-的指南.md)
+- [如何将 Aspire 账户与 NetSuite 集成？](https://help.aspireapp.com/zh-CN/articles/9240303-如何将-aspire-账户与-netsuite-集成.md): 管理员可以选择设置自动导入或手动将账户对账单从 Aspire 导入到 NetSuite。
+- [如何将预支额度对账单同步到 Netsuite？](https://help.aspireapp.com/zh-CN/articles/9276728-如何将预支额度对账单同步到-netsuite.md): 用户现在可以将预支额度对账单作为应付款同步到 Netsuite！
+- [将支出同步到 NetSuite 的指南](https://help.aspireapp.com/zh-CN/articles/11603072-将支出同步到-netsuite-的指南.md)
+- [如何将 Aspire 账户与 Quickbooks 集成？](https://help.aspireapp.com/zh-CN/articles/9276939-如何将-aspire-账户与-quickbooks-集成.md)
+- [如何将 Aspire 账户与 Jurnal 集成？](https://help.aspireapp.com/zh-CN/articles/9276704-如何将-aspire-账户与-jurnal-集成.md)
+- [如何将 Aspire 账户与 SAP Business One 集成？](https://help.aspireapp.com/zh-CN/articles/9277514-如何将-aspire-账户与-sap-business-one-集成.md)
+- [如何与其他会计平台集成？](https://help.aspireapp.com/zh-CN/articles/9276683-如何与其他会计平台集成.md): 您的 Aspire 账户可以以多种常见格式导出会计数据。
+- [如何将 Aspire 账户与 Osome 集成](https://help.aspireapp.com/zh-CN/articles/10756829-如何将-aspire-账户与-osome-集成.md)
+- [我可以将我的 Aspire 账户关联到 Etsy 以接收付款吗？](https://help.aspireapp.com/zh-CN/articles/9285171-我可以将我的-aspire-账户关联到-etsy-以接收付款吗.md)
+- [我可以将我的 Aspire SGD 账户关联到 Qoo10 吗？](https://help.aspireapp.com/zh-CN/articles/9285190-我可以将我的-aspire-sgd-账户关联到-qoo10-吗.md)
+- [我可以将我的 Aspire SGD 账户关联到虾皮购物（Shopee）以接收付款吗？](https://help.aspireapp.com/zh-CN/articles/9285195-我可以将我的-aspire-sgd-账户关联到虾皮购物-shopee-以接收付款吗.md)
+- [我可以将我的 Aspire 账户关联至 Adyen 以接收付款吗？](https://help.aspireapp.com/zh-CN/articles/11645183-我可以将我的-aspire-账户关联至-adyen-以接收付款吗.md)
+
+### 与其他平台集成
+
+- [如何将我的 Aspire 借记账户绑定至 PayPal？](https://help.aspireapp.com/zh-CN/articles/10660571-如何将我的-aspire-借记账户绑定至-paypal.md)
+- [我可以将我的 Aspire HKD 账户绑定至 Lian Lian Pay 以接收款项吗？](https://help.aspireapp.com/zh-CN/articles/11484940-我可以将我的-aspire-hkd-账户绑定至-lian-lian-pay-以接收款项吗.md)
+- [我可以将我的 Aspire HKD 账户绑定至 HKTV Mall 以接收款项吗？](https://help.aspireapp.com/zh-CN/articles/11484953-我可以将我的-aspire-hkd-账户绑定至-hktv-mall-以接收款项吗.md)
+- [我可以将我的 Aspire 账户绑定至 Shopify 以接收款项吗？](https://help.aspireapp.com/zh-CN/articles/11484956-我可以将我的-aspire-账户绑定至-shopify-以接收款项吗.md)
+- [我可以将我的 Aspire 账户关联至 Adyen 以接收付款吗？](https://help.aspireapp.com/zh-CN/articles/11645188-我可以将我的-aspire-账户关联至-adyen-以接收付款吗.md)
+- [我可以将我的 Aspire 账户与 KPay 关联以接收款项吗？](https://help.aspireapp.com/zh-CN/articles/11659361-我可以将我的-aspire-账户与-kpay-关联以接收款项吗.md)
+- [我可以将我的 Aspire 账户绑定至 Amazon 以接收款项吗？](https://help.aspireapp.com/zh-CN/articles/11617814-我可以将我的-aspire-账户绑定至-amazon-以接收款项吗.md)
+
+### 安全与保障
+
+- [Aspire 持有哪些执照？](https://help.aspireapp.com/zh-CN/articles/9296033-aspire-持有哪些执照.md)
+- [我的资金是否安全？](https://help.aspireapp.com/zh-CN/articles/9296013-我的资金是否安全.md)
+- [Aspire 是银行吗？](https://help.aspireapp.com/zh-CN/articles/9296086-aspire-是银行吗.md)
+- [新加坡企业持有的资金](https://help.aspireapp.com/zh-CN/articles/10001381-新加坡企业持有的资金.md)
+- [Aspire 系统是否安全？](https://help.aspireapp.com/zh-CN/articles/9285918-aspire-系统是否安全.md)
+- [Aspire 是否与硅谷银行（SVB）有业务往来？](https://help.aspireapp.com/zh-CN/articles/9285316-aspire-是否与硅谷银行-svb-有业务往来.md)
+- [我的数据是否受到保护？](https://help.aspireapp.com/zh-CN/articles/9285855-我的数据是否受到保护.md)
+- [如何保护我的账户免遭欺诈和盗用](https://help.aspireapp.com/zh-CN/articles/9296092-如何保护我的账户免遭欺诈和盗用.md): 以下是一些可以保护您的账户免遭欺诈和盗用的实用步骤。
+- [注意网络钓鱼攻击](https://help.aspireapp.com/zh-CN/articles/11579221-注意网络钓鱼攻击.md)
+
+### 其他
+
+- [Aspire 网站和 Aspire 移动应用的基本故障排除指南](https://help.aspireapp.com/zh-CN/articles/9286128-aspire-网站和-aspire-移动应用的基本故障排除指南.md)
+- [如何请求 Aspire 应用程序中的新功能？](https://help.aspireapp.com/zh-CN/articles/9286146-如何请求-aspire-应用程序中的新功能.md): 我们喜欢反馈，并时刻重视客户的功能请求。
+- [Aspire 有实体分行吗？](https://help.aspireapp.com/zh-CN/articles/9286174-aspire-有实体分行吗.md)
+- [在哪里可以下载 Aspire 的移动应用程序？](https://help.aspireapp.com/zh-CN/articles/9286195-在哪里可以下载-aspire-的移动应用程序.md): 使用我们的 Aspire 移动应用程序，随时随地管理您的财务！
+- [如何报告系统错误？](https://help.aspireapp.com/zh-CN/articles/9286218-如何报告系统错误.md)
+- [我如何提出投诉？](https://help.aspireapp.com/zh-CN/articles/9626035-我如何提出投诉.md)
+- [Aspire 能否指导我处理涉及公司董事和股东的法律事务？](https://help.aspireapp.com/zh-CN/articles/9685734-aspire-能否指导我处理涉及公司董事和股东的法律事务.md)
+- [我可以在华为设备上安装 Aspire 应用吗？](https://help.aspireapp.com/zh-CN/articles/9889582-我可以在华为设备上安装-aspire-应用吗.md)
+- [支出管理和企业卡的资格条件](https://help.aspireapp.com/zh-CN/articles/9936509-支出管理和企业卡的资格条件.md)
+- [相互尊重的互动指南](https://help.aspireapp.com/zh-CN/articles/10382236-相互尊重的互动指南.md)
+- [如何退出我的 Aspire 账户？](https://help.aspireapp.com/zh-CN/articles/11847231-如何退出我的-aspire-账户.md)
+- [如何切换至其他的 Aspire 账户？](https://help.aspireapp.com/zh-CN/articles/12040990-如何切换至其他的-aspire-账户.md)
+- [如何在微信上开始咨询？](https://help.aspireapp.com/zh-CN/articles/15456419-如何在微信上开始咨询.md)
+
+## 繁體中文
+
+### 開設您的賬戶
+
+- [Aspire 提供哪些服務？](https://help.aspireapp.com/zh-TW/articles/9234574-aspire-提供哪些服務.md)
+- [Aspire 支持哪些國家？](https://help.aspireapp.com/zh-TW/articles/9239713-aspire-支持哪些國家.md)
+- [如何完成 Aspire 生物識別驗證](https://help.aspireapp.com/zh-TW/articles/12114489-如何完成-aspire-生物識別驗證.md)
+- [如何申請 Aspire 賬戶？](https://help.aspireapp.com/zh-TW/articles/9324513-如何申請-aspire-賬戶.md)
+- [Aspire 是否為服基金和特殊目的公司（SPVs）提供服務？](https://help.aspireapp.com/zh-TW/articles/9250262-aspire-是否為服基金和特殊目的公司-spvs-提供服務.md)
+- [新加坡註冊公司的賬戶開設指南](https://help.aspireapp.com/zh-TW/articles/9250429-新加坡註冊公司的賬戶開設指南.md): 開設 Aspire 賬戶所需的文件取決於您機構的複雜性。
+- [香港註冊公司的賬戶開設指南](https://help.aspireapp.com/zh-TW/articles/9258095-香港註冊公司的賬戶開設指南.md): 開設 Aspire 賬戶所需的文件取決於您機構的複雜性。
+- [其他國家公司的賬戶開設指南](https://help.aspireapp.com/zh-TW/articles/9240218-其他國家公司的賬戶開設指南.md): 開設 Aspire 賬戶所需的文件取決於您機構的複雜性。
+- [資金和財富來源指南](https://help.aspireapp.com/zh-TW/articles/9258223-資金和財富來源指南.md)
+- [營業證明](https://help.aspireapp.com/zh-TW/articles/9284031-營業證明.md)
+- [為什麼 Aspire 需要提供公司章程文件？](https://help.aspireapp.com/zh-TW/articles/10037932-為什麼-aspire-需要提供公司章程文件.md)
+- [非印尼註冊公司的 IDR 賬戶開設指南](https://help.aspireapp.com/zh-TW/articles/9258136-非印尼註冊公司的-idr-賬戶開設指南.md)
+- [如何添加我的其它公司或企業實體？](https://help.aspireapp.com/zh-TW/articles/9258270-如何添加我的其它公司或企業實體.md)
+- [我如何在應用程式内查看和上傳所需文件？](https://help.aspireapp.com/zh-TW/articles/9258298-我如何在應用程式内查看和上傳所需文件.md)
+- [如何在網路應用程式上啟用攝影機進行註冊？](https://help.aspireapp.com/zh-TW/articles/9258390-如何在網路應用程式上啟用攝影機進行註冊.md)
+- [Aspire 接受哪些語言的提交文件？](https://help.aspireapp.com/zh-TW/articles/9258490-aspire-接受哪些語言的提交文件.md)
+- [我在賬戶開設註冊表格中輸入了錯誤的電話號碼](https://help.aspireapp.com/zh-TW/articles/9258210-我在賬戶開設註冊表格中輸入了錯誤的電話號碼.md)
+- [什麼是最終受益人（UBO）？](https://help.aspireapp.com/zh-TW/articles/11547882-什麼是最終受益人-ubo.md)
+- [在註冊另一個 Aspire 賬戶時，是否可以使用相同的手機號碼但不同的電子郵件地址，或相同的電子郵件地址但不同的手機號碼？](https://help.aspireapp.com/zh-TW/articles/9296094-在註冊另一個-aspire-賬戶時-是否可以使用相同的手機號碼但不同的電子郵件地址-或相同的電子郵件地址但不同的手機號碼.md)
+- [如果 Aspire 顯示我的電郵、電話或公司註冊號碼已被使用，我該怎麼辦？](https://help.aspireapp.com/zh-TW/articles/12252323-如果-aspire-顯示我的電郵-電話或公司註冊號碼已被使用-我該怎麼辦.md)
+- [為什麼需要進行文件驗證？](https://help.aspireapp.com/zh-TW/articles/9571141-為什麼需要進行文件驗證.md)
+- [如何保存開戶註冊進度](https://help.aspireapp.com/zh-TW/articles/10005104-如何保存開戶註冊進度.md)
+- [如何為獨資企業 / 合夥企業 / 有限合夥企業更新 ACRA 註冊？](https://help.aspireapp.com/zh-TW/articles/9229628-如何為獨資企業-合夥企業-有限合夥企業更新-acra-註冊.md): 根據 ACRA 的規定，請在獨資企業 / 合夥企業 / 有限合夥企業註冊到期前 60 天更新註冊。
+- [如何在新加坡成立企業？](https://help.aspireapp.com/zh-TW/articles/9239679-如何在新加坡成立企業.md): 只要您知道如何操作，在新加坡成立企業其實很簡單。
+- [新加坡有哪些不同類型的公司結構？](https://help.aspireapp.com/zh-TW/articles/9258392-新加坡有哪些不同類型的公司結構.md)
+
+### 管理您的賬戶和訂閱
+
+- [如何添加用戶？](https://help.aspireapp.com/zh-TW/articles/9234838-如何添加用戶.md)
+- [如何修改用戶角色？](https://help.aspireapp.com/zh-TW/articles/9234690-如何修改用戶角色.md): 只有管理員用戶可以升級或降級現有用戶或待邀請用戶的角色。
+- [受邀用戶如何註冊他們的賬戶？](https://help.aspireapp.com/zh-TW/articles/9234931-受邀用戶如何註冊他們的賬戶.md): 查看受邀用戶設定其 Aspire 賬戶所需的步驟和文件！
+- [如何第一次登入您的 Aspire 賬戶？](https://help.aspireapp.com/zh-TW/articles/9235084-如何第一次登入您的-aspire-賬戶.md)
+- [如何移除用戶](https://help.aspireapp.com/zh-TW/articles/9233916-如何移除用戶.md): 管理員可以更改現有或待邀請用戶的角色或移除其訪問權限。
+- [如何以員工用戶身份使用 Aspire？](https://help.aspireapp.com/zh-TW/articles/9258499-如何以員工用戶身份使用-aspire.md): 使用此指南幫助您以員工用戶身份開始使用 Aspire。
+- [如何為現有用戶指派部門和職位](https://help.aspireapp.com/zh-TW/articles/9258527-如何為現有用戶指派部門和職位.md)
+- [如何授予用戶“薪資單 “ 權限？](https://help.aspireapp.com/zh-TW/articles/9258547-如何授予用戶-薪資單-權限.md): “薪資單” 權限允許用戶查看薪資批量轉賬中的單一轉賬。
+- [我可以將我的 Aspire 用戶資料轉讓給他人嗎？](https://help.aspireapp.com/zh-TW/articles/11079775-我可以將我的-aspire-用戶資料轉讓給他人嗎.md)
+- [如何更新個人賬戶資料](https://help.aspireapp.com/zh-TW/articles/9239786-如何更新個人賬戶資料.md)
+- [如何更新您的手機號碼](https://help.aspireapp.com/zh-TW/articles/9258733-如何更新您的手機號碼.md): 您可以前往「設定」頁面更新您的註冊手機號碼。
+- [如何更新企業賬戶詳情](https://help.aspireapp.com/zh-TW/articles/9258904-如何更新企業賬戶詳情.md)
+- [誰可以更改我的賬戶詳情？](https://help.aspireapp.com/zh-TW/articles/9310415-誰可以更改我的賬戶詳情.md)
+- [如何更新您的工作郵箱？](https://help.aspireapp.com/zh-TW/articles/11625054-如何更新您的工作郵箱.md): 您可以前往 ”設定“ 頁面更新您註冊的電子郵件地址。
+- [如何更改我的密碼？](https://help.aspireapp.com/zh-TW/articles/9276545-如何更改我的密碼.md)
+- [我可以從哪些國家登入？](https://help.aspireapp.com/zh-TW/articles/9285325-我可以從哪些國家登入.md)
+- [我的 Aspire 賬戶的一次性密碼（OTP）發送方式是什麼？](https://help.aspireapp.com/zh-TW/articles/9285862-我的-aspire-賬戶的一次性密碼-otp-發送方式是什麼.md)
+- [如何設定生物辨識認證](https://help.aspireapp.com/zh-TW/articles/9285867-如何設定生物辨識認證.md): 如果您的手機支持，您可以使用生物辨識認證為您的登入數據和轉賬添加額外的安全性。
+- [我忘了我的 Aspire 賬戶密碼](https://help.aspireapp.com/zh-TW/articles/9285888-我忘了我的-aspire-賬戶密碼.md)
+- [如何設定您的可信裝置](https://help.aspireapp.com/zh-TW/articles/12330534-如何設定您的可信裝置.md)
+- [如何更改您的兩步驗證（2FA）方式](https://help.aspireapp.com/zh-TW/articles/9285930-如何更改您的兩步驗證-2fa-方式.md)
+- [登入時遇到問題？](https://help.aspireapp.com/zh-TW/articles/9427931-登入時遇到問題.md)
+- [為什麼我不能接收發送到我手機上的一次性密碼（OTP）？](https://help.aspireapp.com/zh-TW/articles/9286037-為什麼我不能接收發送到我手機上的一次性密碼-otp.md)
+- [如何查看我的登錄活動](https://help.aspireapp.com/zh-TW/articles/9576811-如何查看我的登錄活動.md)
+- [如何凍結企業賬戶](https://help.aspireapp.com/zh-TW/articles/9581967-如何凍結企業賬戶.md)
+- [我可以重新啟用已關閉的 Aspire 賬戶嗎？](https://help.aspireapp.com/zh-TW/articles/9258417-我可以重新啟用已關閉的-aspire-賬戶嗎.md)
+- [為什麼我的賬戶被 Aspire 關閉了？](https://help.aspireapp.com/zh-TW/articles/9258918-為什麼我的賬戶被-aspire-關閉了.md)
+- [當我的 Aspire 賬戶被凍結或暫停使用時會發生什麼事？](https://help.aspireapp.com/zh-TW/articles/9258953-當我的-aspire-賬戶被凍結或暫停使用時會發生什麼事.md)
+- [如何申請關閉 Aspire 帳戶](https://help.aspireapp.com/zh-TW/articles/9259176-如何申請關閉-aspire-帳戶.md)
+- [如何大量編輯交易類別](https://help.aspireapp.com/zh-TW/articles/9306854-如何大量編輯交易類別.md)
+- [如何創建、編輯和刪除類別](https://help.aspireapp.com/zh-TW/articles/9306863-如何創建-編輯和刪除類別.md)
+- [分析頁面指南](https://help.aspireapp.com/zh-TW/articles/9403647-分析頁面指南.md)
+- [如何從 Aspire 賬戶導出數據？](https://help.aspireapp.com/zh-TW/articles/9239981-如何從-aspire-賬戶導出數據.md): 無縫導出您的賬戶對賬單、預算、卡、發票、報銷、費用、賬單、付款鏈接和用戶數據！
+- [我可以設定每日或定期的帳戶對帳單嗎？](https://help.aspireapp.com/zh-TW/articles/12106102-我可以設定每日或定期的帳戶對帳單嗎.md)
+- [為什麼我沒有收到每月的帳戶對帳單？](https://help.aspireapp.com/zh-TW/articles/12106174-為什麼我沒有收到每月的帳戶對帳單.md)
+- [如何取得 Aspire 官方文件？](https://help.aspireapp.com/zh-TW/articles/12106241-如何取得-aspire-官方文件.md)
+- [匯出與下載問題排解](https://help.aspireapp.com/zh-TW/articles/12106652-匯出與下載問題排解.md)
+- [如何為我的 Aspire 借記賬戶申請審計函？](https://help.aspireapp.com/zh-TW/articles/9258844-如何為我的-aspire-借記賬戶申請審計函.md)
+- [如何管理通知設置](https://help.aspireapp.com/zh-TW/articles/9258403-如何管理通知設置.md): 自訂有關轉賬、卡支付、賬單、報銷、團隊活動、更新和優惠的應用程式內通知。
+- [如何創建或重設轉賬審批政策？](https://help.aspireapp.com/zh-TW/articles/9239618-如何創建或重設轉賬審批政策.md): 只有管理員用戶可以創建或重設賬戶的轉賬審批政策。
+- [轉帳審批政策運作方式](https://help.aspireapp.com/zh-TW/articles/9239639-轉帳審批政策運作方式.md)
+- [我的賬戶處於非活躍狀態。我該如何重新啟用我的 Aspire 賬戶？](https://help.aspireapp.com/zh-TW/articles/9277612-我的賬戶處於非活躍狀態-我該如何重新啟用我的-aspire-賬戶.md)
+- [我的訂閱賬單資訊指南](https://help.aspireapp.com/zh-TW/articles/9277653-我的訂閱賬單資訊指南.md)
+- [加入 Aspire 可以獲得哪些獎勵？](https://help.aspireapp.com/zh-TW/articles/9286360-加入-aspire-可以獲得哪些獎勵.md)
+- [我如何初始激活Google Workspace？](https://help.aspireapp.com/zh-TW/articles/9290691-我如何初始激活google-workspace.md)
+- [如何編輯您的 Google Workspace 訂閱](https://help.aspireapp.com/zh-TW/articles/10549802-如何編輯您的-google-workspace-訂閱.md)
+- [Google Workspace 的管理員與儲存空間問題](https://help.aspireapp.com/zh-TW/articles/9286373-google-workspace-的管理員與儲存空間問題.md): 以下是與您的 Google Workspace 賬戶相關的常見管理員和儲存空間請求
+- [如何註冊成為 Aspire 的聯盟合作夥伴](https://help.aspireapp.com/zh-TW/articles/9286108-如何註冊成為-aspire-的聯盟合作夥伴.md)
+- [如何推薦他人使用 Aspire？](https://help.aspireapp.com/zh-TW/articles/9311466-如何推薦他人使用-aspire.md)
+
+### 發送和接收轉賬
+
+- [從 Aspire SGD 賬戶發送本地轉賬指南](https://help.aspireapp.com/zh-TW/articles/9276162-從-aspire-sgd-賬戶發送本地轉賬指南.md)
+- [如何從 Aspire SGD 賬戶支付 GST？](https://help.aspireapp.com/zh-TW/articles/9262968-如何從-aspire-sgd-賬戶支付-gst.md): 您可以使用 Aspire SGD 賬戶通過銀行轉賬支付您的 GST。
+- [發送 PayNow 轉賬指南](https://help.aspireapp.com/zh-TW/articles/9287469-發送-paynow-轉賬指南.md)
+- [PayNow 轉賬失敗後的退款在哪裡？](https://help.aspireapp.com/zh-TW/articles/9263235-paynow-轉賬失敗後的退款在哪裡.md)
+- [從 Aspire SGD 賬戶進行印度盧比（INR）轉賬指南](https://help.aspireapp.com/zh-TW/articles/9264455-從-aspire-sgd-賬戶進行印度盧比-inr-轉賬指南.md)
+- [從 SGD 賬戶進行人民幣（CNH / CNY）轉賬指南](https://help.aspireapp.com/zh-TW/articles/9264974-從-sgd-賬戶進行人民幣-cnh-cny-轉賬指南.md)
+- [從 SGD 賬戶進行港幣（HKD）轉賬指南](https://help.aspireapp.com/zh-TW/articles/9267915-從-sgd-賬戶進行港幣-hkd-轉賬指南.md)
+- [如何取消或撤回 Aspire 新加坡元（SGD）的匯出轉賬](https://help.aspireapp.com/zh-TW/articles/9258709-如何取消或撤回-aspire-新加坡元-sgd-的匯出轉賬.md)
+- [如何通過 PayNow 支付公積金（CPF）？](https://help.aspireapp.com/zh-TW/articles/9403791-如何通過-paynow-支付公積金-cpf.md)
+- [從 Aspire SGD 賬戶向印度進行外商直接投資（FDI）轉賬](https://help.aspireapp.com/zh-TW/articles/9403821-從-aspire-sgd-賬戶向印度進行外商直接投資-fdi-轉賬.md)
+- [如何填寫 Aspire SGD 賬戶的批量轉賬模板](https://help.aspireapp.com/zh-TW/articles/10747823-如何填寫-aspire-sgd-賬戶的批量轉賬模板.md)
+- [CEC 費用指的是什麼？](https://help.aspireapp.com/zh-TW/articles/9271340-cec-費用指的是什麼.md): CEC 費用是指為了從交易所提取資金而與加密貨幣交易所進行的交易。
+- [如何取消或撤回 Aspire 美元（USD）的匯出轉賬](https://help.aspireapp.com/zh-TW/articles/9263314-如何取消或撤回-aspire-美元-usd-的匯出轉賬.md)
+- [從 Aspire USD 賬戶進行歐元（EUR）轉賬指南](https://help.aspireapp.com/zh-TW/articles/9322676-從-aspire-usd-賬戶進行歐元-eur-轉賬指南.md)
+- [我的企業可以使用 ACH 扣款服務嗎？](https://help.aspireapp.com/zh-TW/articles/12619550-我的企業可以使用-ach-扣款服務嗎.md)
+- [從 Aspire EUR 賬戶發送國際轉賬指南](https://help.aspireapp.com/zh-TW/articles/9276584-從-aspire-eur-賬戶發送國際轉賬指南.md)
+- [審核和批准工資轉賬](https://help.aspireapp.com/zh-TW/articles/10798527-審核和批准工資轉賬.md)
+- [如何複製一筆薪資交易](https://help.aspireapp.com/zh-TW/articles/11710552-如何複製一筆薪資交易.md)
+- [如何將 Aspire 帳戶與 HReasily 連接以進行薪資發放？](https://help.aspireapp.com/zh-TW/articles/12456026-如何將-aspire-帳戶與-hreasily-連接以進行薪資發放.md)
+- [Aspire 多幣種賬戶的最低餘額要求是多少？](https://help.aspireapp.com/zh-TW/articles/9258329-aspire-多幣種賬戶的最低餘額要求是多少.md)
+- [SWIFT MT103 指南及其獲取方法](https://help.aspireapp.com/zh-TW/articles/9249591-swift-mt103-指南及其獲取方法.md)
+- [如何在我的 Aspire 多幣種賬戶中查看、創建和刪除收款人](https://help.aspireapp.com/zh-TW/articles/9245120-如何在我的-aspire-多幣種賬戶中查看-創建和刪除收款人.md)
+- [為什麼我的轉賬被撤回了？](https://help.aspireapp.com/zh-TW/articles/9262982-為什麼我的轉賬被撤回了.md): 匯款轉賬可能會因為轉賬信息或我們系統的意外錯誤而被撤回
+- [我可以請求修改我的 SWIFT 匯出轉賬的信息嗎？](https://help.aspireapp.com/zh-TW/articles/9258699-我可以請求修改我的-swift-匯出轉賬的信息嗎.md)
+- [獲取外幣匯入匯款證書（FIRC）指南](https://help.aspireapp.com/zh-TW/articles/9267683-獲取外幣匯入匯款證書-firc-指南.md)
+- [為什麼我的 Aspire 多幣種賬戶上有一筆我無法識別的交易？](https://help.aspireapp.com/zh-TW/articles/9285320-為什麼我的-aspire-多幣種賬戶上有一筆我無法識別的交易.md): 根據我們的經驗，無法識別的交易可能是由於促銷、退款或被遺忘的計劃付款造成的。
+- [為什麼我需要為我的交易提交特定文件？](https://help.aspireapp.com/zh-TW/articles/9285911-為什麼我需要為我的交易提交特定文件.md): 我們需要您提交文件來完成我們的盡職調查過程。
+- [我可以使用我的 Aspire 多幣種賬戶作為貸款的抵押或債券嗎？](https://help.aspireapp.com/zh-TW/articles/9286209-我可以使用我的-aspire-多幣種賬戶作為貸款的抵押或債券嗎.md)
+- [Aspire 借記賬戶上的 SWIFT 支付被拒絕後的退款時間](https://help.aspireapp.com/zh-TW/articles/9291482-aspire-借記賬戶上的-swift-支付被拒絕後的退款時間.md)
+- [如何在我的 SWIFT 轉賬中包含六項 KYC 信息？](https://help.aspireapp.com/zh-TW/articles/9291584-如何在我的-swift-轉賬中包含六項-kyc-信息.md)
+- [為什麼我的入賬轉賬被拒絕？](https://help.aspireapp.com/zh-TW/articles/9506394-為什麼我的入賬轉賬被拒絕.md)
+- [Aspire 的交易監控](https://help.aspireapp.com/zh-TW/articles/9818834-aspire-的交易監控.md)
+- [通過 Aspire 替代外匯合作夥伴發送和接收國際轉賬指南](https://help.aspireapp.com/zh-TW/articles/9267654-通過-aspire-替代外匯合作夥伴發送和接收國際轉賬指南.md): 請依照本指南通過 Aspire 的替代外匯合作夥伴發送和接收國際轉賬。
+- [如何為您的入賬或出賬轉賬上傳附件或收據](https://help.aspireapp.com/zh-TW/articles/10897336-如何為您的入賬或出賬轉賬上傳附件或收據.md)
+- [如何下載 Aspire 多幣種賬戶的官方信函](https://help.aspireapp.com/zh-TW/articles/11394729-如何下載-aspire-多幣種賬戶的官方信函.md)
+
+### Yield Account
+
+- [Aspire 收益賬戶如何運作](https://help.aspireapp.com/zh-TW/articles/11079556-aspire-收益賬戶如何運作.md)
+- [開設 Aspire 收益賬戶的資格要求](https://help.aspireapp.com/zh-TW/articles/11374713-開設-aspire-收益賬戶的資格要求.md)
+- [使用收益賬戶的稅務須知](https://help.aspireapp.com/zh-TW/articles/11374722-使用收益賬戶的稅務須知.md)
+- [如何激活 Aspire 收益賬戶](https://help.aspireapp.com/zh-TW/articles/11374725-如何激活-aspire-收益賬戶.md)
+- [如何從 Aspire 收益賬戶存入或提取資金](https://help.aspireapp.com/zh-TW/articles/11374745-如何從-aspire-收益賬戶存入或提取資金.md)
+- [如何停用 Aspire 收益賬戶](https://help.aspireapp.com/zh-TW/articles/11374766-如何停用-aspire-收益賬戶.md)
+- [如何行使取消權](https://help.aspireapp.com/zh-TW/articles/11374770-如何行使取消權.md)
+- [我的訂單報表中 NAV 和單位代表什麼？](https://help.aspireapp.com/zh-TW/articles/11703003-我的訂單報表中-nav-和單位代表什麼.md)
+
+### 發送與接收轉賬
+
+- [中國公司的 Aspire 賬戶名稱指南](https://help.aspireapp.com/zh-TW/articles/11925361-中國公司的-aspire-賬戶名稱指南.md)
+- [如何填寫 Aspire HKD、CNY 或 USD 賬戶的批量轉賬模板](https://help.aspireapp.com/zh-TW/articles/10755367-如何填寫-aspire-hkd-cny-或-usd-賬戶的批量轉賬模板.md)
+- [新幣（SGD）轉帳指南](https://help.aspireapp.com/zh-TW/articles/12905068-新幣-sgd-轉帳指南.md)
+- [通過 Aspire HKD 賬戶接收本地轉賬指南](https://help.aspireapp.com/zh-TW/articles/11561095-通過-aspire-hkd-賬戶接收本地轉賬指南.md)
+- [獲取外幣匯入匯款證書（FIRC）指南](https://help.aspireapp.com/zh-TW/articles/11575357-獲取外幣匯入匯款證書-firc-指南.md)
+- [如何申請撤回、取消或追蹤一筆出賬轉賬](https://help.aspireapp.com/zh-TW/articles/11630876-如何申請撤回-取消或追蹤一筆出賬轉賬.md)
+- [Aspire 多幣種賬戶的最低餘額要求是多少？](https://help.aspireapp.com/zh-TW/articles/11394552-aspire-多幣種賬戶的最低餘額要求是多少.md)
+- [為什麼我的 Aspire 多幣種賬戶上有一筆我無法識別的交易？](https://help.aspireapp.com/zh-TW/articles/11575524-為什麼我的-aspire-多幣種賬戶上有一筆我無法識別的交易.md)
+- [為什麼我的入賬轉賬被拒絕？](https://help.aspireapp.com/zh-TW/articles/11575467-為什麼我的入賬轉賬被拒絕.md)
+- [我可以在 Aspire 多幣種賬戶中持有多少資金？](https://help.aspireapp.com/zh-TW/articles/11394710-我可以在-aspire-多幣種賬戶中持有多少資金.md)
+
+### 管理您的卡和報銷
+
+- [如何凍結虛擬卡或實體卡？](https://help.aspireapp.com/zh-TW/articles/9334573-如何凍結虛擬卡或實體卡.md)
+- [Aspire 卡貨幣限制指南](https://help.aspireapp.com/zh-TW/articles/9337105-aspire-卡貨幣限制指南.md)
+- [我的卡退款在哪裡？](https://help.aspireapp.com/zh-TW/articles/9271196-我的卡退款在哪裡.md)
+- [如何審核已提交的 Aspire 卡請求？](https://help.aspireapp.com/zh-TW/articles/9271208-如何審核已提交的-aspire-卡請求.md)
+- [Aspire 卡的取消指南](https://help.aspireapp.com/zh-TW/articles/9271280-aspire-卡的取消指南.md): 管理員和預算負責人可通過您的 Aspire 賬戶取消您的虛擬卡或實體卡片。
+- [我可以在虛擬卡和實體卡上消費的最高限額是多少？](https://help.aspireapp.com/zh-TW/articles/9324605-我可以在虛擬卡和實體卡上消費的最高限額是多少.md)
+- [我的 Aspire 卡已扣款，但在商家網站上顯示付款失敗。](https://help.aspireapp.com/zh-TW/articles/9334555-我的-aspire-卡已扣款-但在商家網站上顯示付款失敗.md)
+- [Aspire 卡的商家限制指南](https://help.aspireapp.com/zh-TW/articles/9336995-aspire-卡的商家限制指南.md)
+- [如何設定或更新 Aspire 卡的消費限額](https://help.aspireapp.com/zh-TW/articles/9609226-如何設定或更新-aspire-卡的消費限額.md)
+- [如何獲取 Aspire 卡交易的 META 驗證碼](https://help.aspireapp.com/zh-TW/articles/11059171-如何獲取-aspire-卡交易的-meta-驗證碼.md)
+- [如何替換 Aspire 虛擬卡？](https://help.aspireapp.com/zh-TW/articles/9271312-如何替換-aspire-虛擬卡.md)
+- [我的 Aspire 虛擬卡即將到期/已過期](https://help.aspireapp.com/zh-TW/articles/9928579-我的-aspire-虛擬卡即將到期-已過期.md)
+- [如何重置實體卡的密碼？](https://help.aspireapp.com/zh-TW/articles/9271371-如何重置實體卡的密碼.md)
+- [實體卡的費用是多少？](https://help.aspireapp.com/zh-TW/articles/9337172-實體卡的費用是多少.md)
+- [啟用 Aspire 實體卡指南](https://help.aspireapp.com/zh-TW/articles/9337194-啟用-aspire-實體卡指南.md)
+- [我的 Aspire 實體卡即將過期/已過期](https://help.aspireapp.com/zh-TW/articles/11579576-我的-aspire-實體卡即將過期-已過期.md)
+- [卡的外匯兌換匯率是多少？](https://help.aspireapp.com/zh-TW/articles/9270995-卡的外匯兌換匯率是多少.md)
+- [為什麼我在 Tokopedia 和 Bilibili 上的購買被拒絕？](https://help.aspireapp.com/zh-TW/articles/9324577-為什麼我在-tokopedia-和-bilibili-上的購買被拒絕.md)
+- [提高 Aspire 預支額度指南](https://help.aspireapp.com/zh-TW/articles/9334420-提高-aspire-預支額度指南.md)
+- [Aspire 預支額度還款指南](https://help.aspireapp.com/zh-TW/articles/9329592-aspire-預支額度還款指南.md)
+- [如何將我的 Aspire 卡關聯到貝寶（PayPal）？](https://help.aspireapp.com/zh-TW/articles/9324690-如何將我的-aspire-卡關聯到貝寶-paypal.md)
+- [如何將 Aspire 卡與 Apple Pay 關聯](https://help.aspireapp.com/zh-TW/articles/9336424-如何將-aspire-卡與-apple-pay-關聯.md)
+- [我的 Aspire 卡被限制在 Facebook 上付款](https://help.aspireapp.com/zh-TW/articles/9337149-我的-aspire-卡被限制在-facebook-上付款.md)
+- [如果我輸入了三次錯誤的 PIN 碼會怎麼樣？](https://help.aspireapp.com/zh-TW/articles/9563951-如果我輸入了三次錯誤的-pin-碼會怎麼樣.md)
+- [如何發送出賬轉賬的收據請求？](https://help.aspireapp.com/zh-TW/articles/9261790-如何發送出賬轉賬的收據請求.md): 管理員、財務和預算負責人可以手動或通過自動方式通知用戶將收據添加到其交易中。
+- [如何上傳與匹配交易收據](https://help.aspireapp.com/zh-TW/articles/9262514-如何上傳與匹配交易收據.md): 用戶可以手動或自動將收據與交易配對！
+
+### 管理您的卡片與報銷事項
+
+- [我可以使用虛擬卡和實體卡消費的最高限額是多少？](https://help.aspireapp.com/zh-TW/articles/11575791-我可以使用虛擬卡和實體卡消費的最高限額是多少.md)
+- [CEC 費用指的是什麼？](https://help.aspireapp.com/zh-TW/articles/11579638-cec-費用指的是什麼.md): CEC 費用是指為了從交易所提取資金而與加密貨幣交易所進行的交易。
+- [卡的外匯兌換匯率是多少？](https://help.aspireapp.com/zh-TW/articles/11579657-卡的外匯兌換匯率是多少.md)
+- [如何將 Aspire 卡與 Google Pay 綁定？](https://help.aspireapp.com/zh-TW/articles/12065845-如何將-aspire-卡與-google-pay-綁定.md)
+- [如何降低我的卡的信息被濫用的風險？](https://help.aspireapp.com/zh-TW/articles/11580996-如何降低我的卡的信息被濫用的風險.md)
+- [Aspire 卡交易爭議的申訴指南](https://help.aspireapp.com/zh-TW/articles/11659423-aspire-卡交易爭議的申訴指南.md): 直接在應用程式內對未經授權的交易提出爭議！
+
+### 管理您的應付款和應收款
+
+- [如何在 發票和付款鏈接中啟用 Stripe](https://help.aspireapp.com/zh-TW/articles/10623901-如何在-發票和付款鏈接中啟用-stripe.md)
+- [發票和支付鏈接的 Stripe 付款方式](https://help.aspireapp.com/zh-TW/articles/10623934-發票和支付鏈接的-stripe-付款方式.md)
+- [如何查看通過 Stripe 支付的 SGD 發票和支付鏈接的付款狀態](https://help.aspireapp.com/zh-TW/articles/10623945-如何查看通過-stripe-支付的-sgd-發票和支付鏈接的付款狀態.md)
+- [Stripe 收款如何適用於 發票和支付鏈接](https://help.aspireapp.com/zh-TW/articles/10660225-stripe-收款如何適用於-發票和支付鏈接.md)
+- [如何在發票和付款鏈接上編輯我的應收款和企業詳情](https://help.aspireapp.com/zh-TW/articles/9291089-如何在發票和付款鏈接上編輯我的應收款和企業詳情.md): 請依照本指南在已生成的發票和付款鏈接上編輯您的應收款和企業詳情。
+- [如何手動將發票和付款鏈接標記為已付款？](https://help.aspireapp.com/zh-TW/articles/9291746-如何手動將發票和付款鏈接標記為已付款.md)
+- [是否可以下載已付款發票或付款連結的收據？](https://help.aspireapp.com/zh-TW/articles/11999294-是否可以下載已付款發票或付款連結的收據.md)
+- [我可以透過信用卡或簽帳卡收取客戶的付款嗎？](https://help.aspireapp.com/zh-TW/articles/12064884-我可以透過信用卡或簽帳卡收取客戶的付款嗎.md)
+- [SGD 發票和支付鏈接的 Stripe 付款方式](https://help.aspireapp.com/zh-TW/articles/11651051-sgd-發票和支付鏈接的-stripe-付款方式.md)
+- [創建發票指南](https://help.aspireapp.com/zh-TW/articles/11659506-創建發票指南.md): 請按照本指南從您的 Aspire 應用程式創建發票。
+- [發票編輯指南](https://help.aspireapp.com/zh-TW/articles/9291421-發票編輯指南.md)
+
+### 管理您的應付與應收款項
+
+- [發票與付款連結的款項如何進行對帳？](https://help.aspireapp.com/zh-TW/articles/9291647-發票與付款連結的款項如何進行對帳.md)
+- [如何編輯或刪除發票與付款鏈接的客戶資料](https://help.aspireapp.com/zh-TW/articles/9291484-如何編輯或刪除發票與付款鏈接的客戶資料.md)
+- [刪除發票指南](https://help.aspireapp.com/zh-TW/articles/11596063-刪除發票指南.md)
+
+### Manage Spend
+
+- [了解報銷功能](https://help.aspireapp.com/zh-TW/articles/9298746-了解報銷功能.md)
+- [如何凍結和解凍預算？](https://help.aspireapp.com/zh-TW/articles/11587047-如何凍結和解凍預算.md): 只有管​​理員用戶可以凍結或重新激活預算。
+- [添加預算成員指南](https://help.aspireapp.com/zh-TW/articles/11650986-添加預算成員指南.md): 預算會員是指可以使用該卡在預算範圍內消費並提交報銷的人。
+
+### Procurement 
+
+- [了解賬單功能](https://help.aspireapp.com/zh-TW/articles/9296325-了解賬單功能.md)
+- [如何提交賬單](https://help.aspireapp.com/zh-TW/articles/9296208-如何提交賬單.md)
+- [了解賬單功能](https://help.aspireapp.com/zh-TW/articles/11588377-了解賬單功能.md)
+- [如何提交賬單](https://help.aspireapp.com/zh-TW/articles/11651021-如何提交賬單.md)
+- [如何審核並支付已提交的賬單](https://help.aspireapp.com/zh-TW/articles/11454041-如何審核並支付已提交的賬單.md)
+
+### Managing Spend 
+
+- [如何支付報銷申請](https://help.aspireapp.com/zh-TW/articles/11659493-如何支付報銷申請.md)
+
+### 與其他平台整合
+
+- [如何將支出從 Aspire 同步或導入到 Xero？](https://help.aspireapp.com/zh-TW/articles/9306895-如何將支出從-aspire-同步或導入到-xero.md)
+- [如何將賬單從 Aspire 同步或導入到 Xero](https://help.aspireapp.com/zh-TW/articles/9307065-如何將賬單從-aspire-同步或導入到-xero.md)
+- [將支出同步到 NetSuite 的指南](https://help.aspireapp.com/zh-TW/articles/9240235-將支出同步到-netsuite-的指南.md)
+- [如何將 Aspire 賬戶與 NetSuite 整合？](https://help.aspireapp.com/zh-TW/articles/9240303-如何將-aspire-賬戶與-netsuite-整合.md): 管理員可以選擇設定自動導入或手動將賬戶對賬單從 Aspire 導入到 NetSuite。
+- [如何將預支額度對賬單同步到 Netsuite？](https://help.aspireapp.com/zh-TW/articles/9276728-如何將預支額度對賬單同步到-netsuite.md): 用戶現在可以將預支額度對賬單作為應付款同步到 Netsuite！
+- [將支出同步到 NetSuite 的指南](https://help.aspireapp.com/zh-TW/articles/11603072-將支出同步到-netsuite-的指南.md)
+- [如何將 Aspire 賬戶與 Quickbooks 整合？](https://help.aspireapp.com/zh-TW/articles/9276939-如何將-aspire-賬戶與-quickbooks-整合.md)
+- [如何將 Aspire 賬戶與 Jurnal 整合？](https://help.aspireapp.com/zh-TW/articles/9276704-如何將-aspire-賬戶與-jurnal-整合.md)
+- [如何將 Aspire 賬戶與 SAP Business One 整合？](https://help.aspireapp.com/zh-TW/articles/9277514-如何將-aspire-賬戶與-sap-business-one-整合.md)
+- [如何與其他會計平台整合？](https://help.aspireapp.com/zh-TW/articles/9276683-如何與其他會計平台整合.md): 您的 Aspire 賬戶可以以多種常見的格式導出會計數據。
+- [如何將 Aspire 賬戶與 Osome 集成](https://help.aspireapp.com/zh-TW/articles/10756829-如何將-aspire-賬戶與-osome-集成.md)
+- [我可以將我的 Aspire 賬戶關聯到 Etsy 以接收付款嗎？](https://help.aspireapp.com/zh-TW/articles/9285171-我可以將我的-aspire-賬戶關聯到-etsy-以接收付款嗎.md)
+- [我可以將我的 Aspire SGD 賬戶關聯到 Qoo10 嗎？](https://help.aspireapp.com/zh-TW/articles/9285190-我可以將我的-aspire-sgd-賬戶關聯到-qoo10-嗎.md)
+- [我可以將我的 Aspire SGD 賬戶關聯到蝦皮購物（Shopee）以接收付款嗎？](https://help.aspireapp.com/zh-TW/articles/9285195-我可以將我的-aspire-sgd-賬戶關聯到蝦皮購物-shopee-以接收付款嗎.md)
+- [我可以將我的 Aspire 賬戶關聯至 Adyen 以接收付款嗎？](https://help.aspireapp.com/zh-TW/articles/11645183-我可以將我的-aspire-賬戶關聯至-adyen-以接收付款嗎.md)
+
+### 與其他平台整合
+
+- [如何將我的 Aspire 借記賬戶綁定至 PayPal？](https://help.aspireapp.com/zh-TW/articles/10660571-如何將我的-aspire-借記賬戶綁定至-paypal.md)
+- [我可以將我的 Aspire HKD 賬戶綁定至 Lian Lian Pay 以接收款項嗎？](https://help.aspireapp.com/zh-TW/articles/11484940-我可以將我的-aspire-hkd-賬戶綁定至-lian-lian-pay-以接收款項嗎.md)
+- [我可以將我的 Aspire HKD 賬戶綁定至 HKTV Mall 以接收款項嗎？](https://help.aspireapp.com/zh-TW/articles/11484953-我可以將我的-aspire-hkd-賬戶綁定至-hktv-mall-以接收款項嗎.md)
+- [我可以將我的 Aspire 賬戶綁定至 Shopify 以接收款項嗎？](https://help.aspireapp.com/zh-TW/articles/11484956-我可以將我的-aspire-賬戶綁定至-shopify-以接收款項嗎.md)
+- [我可以將我的 Aspire 賬戶關聯至 Adyen 以接收付款嗎？](https://help.aspireapp.com/zh-TW/articles/11645188-我可以將我的-aspire-賬戶關聯至-adyen-以接收付款嗎.md)
+- [我可以將 Aspire 帳戶連結至 KPay 收款嗎？](https://help.aspireapp.com/zh-TW/articles/11659361-我可以將-aspire-帳戶連結至-kpay-收款嗎.md)
+- [我可以將我的 Aspire 賬戶綁定至 Amazon 以接收款項嗎？](https://help.aspireapp.com/zh-TW/articles/11617814-我可以將我的-aspire-賬戶綁定至-amazon-以接收款項嗎.md)
+
+### 安全和保障
+
+- [Aspire 持有哪些執照？](https://help.aspireapp.com/zh-TW/articles/9296033-aspire-持有哪些執照.md)
+- [我的資金是否安全？](https://help.aspireapp.com/zh-TW/articles/9296013-我的資金是否安全.md)
+- [Aspire 是銀行嗎？](https://help.aspireapp.com/zh-TW/articles/9296086-aspire-是銀行嗎.md)
+- [新加坡企業持有的資金](https://help.aspireapp.com/zh-TW/articles/10001381-新加坡企業持有的資金.md)
+- [Aspire 系統是否安全？](https://help.aspireapp.com/zh-TW/articles/9285918-aspire-系統是否安全.md)
+- [Aspire 是否與硅谷銀行（SVB）有關聯？](https://help.aspireapp.com/zh-TW/articles/9285316-aspire-是否與硅谷銀行-svb-有關聯.md)
+- [我的數據是否受到保護？](https://help.aspireapp.com/zh-TW/articles/9285855-我的數據是否受到保護.md)
+- [如何保護我的賬戶免受詐欺和盜用](https://help.aspireapp.com/zh-TW/articles/9296092-如何保護我的賬戶免受詐欺和盜用.md): 以下是一些可以保護您的賬戶免受詐欺和盜用的實用步驟。
+- [注意網路釣魚攻擊](https://help.aspireapp.com/zh-TW/articles/11579221-注意網路釣魚攻擊.md)
+
+### 其他
+
+- [Aspire 網站和 Aspire 行動應用程式的基本故障排除指南](https://help.aspireapp.com/zh-TW/articles/9286128-aspire-網站和-aspire-行動應用程式的基本故障排除指南.md)
+- [如何請求 Aspire 應用程式中的新功能？](https://help.aspireapp.com/zh-TW/articles/9286146-如何請求-aspire-應用程式中的新功能.md): 我們喜歡反饋，並且一直重視客戶的功能請求。
+- [Aspire 有實體分行嗎？](https://help.aspireapp.com/zh-TW/articles/9286174-aspire-有實體分行嗎.md)
+- [在哪裡可以下載 Aspire 的行動應用程式？](https://help.aspireapp.com/zh-TW/articles/9286195-在哪裡可以下載-aspire-的行動應用程式.md): 使用我們的 Aspire 行動應用程序，隨時隨地管理您的財務！
+- [如何回報系統錯誤？](https://help.aspireapp.com/zh-TW/articles/9286218-如何回報系統錯誤.md)
+- [我如何提出投訴?](https://help.aspireapp.com/zh-TW/articles/9626035-我如何提出投訴.md)
+- [Aspire 可以指導我處理涉及公司董事和股東的法律事務嗎？](https://help.aspireapp.com/zh-TW/articles/9685734-aspire-可以指導我處理涉及公司董事和股東的法律事務嗎.md)
+- [我可以在華為裝置上安裝 Aspire 應用程式嗎？](https://help.aspireapp.com/zh-TW/articles/9889582-我可以在華為裝置上安裝-aspire-應用程式嗎.md)
+- [支出管理和企業卡的資格條件](https://help.aspireapp.com/zh-TW/articles/9936509-支出管理和企業卡的資格條件.md)
+- [相互尊重的互動指南](https://help.aspireapp.com/zh-TW/articles/10382236-相互尊重的互動指南.md)
+- [如何退出我的 Aspire 賬戶？](https://help.aspireapp.com/zh-TW/articles/11847231-如何退出我的-aspire-賬戶.md)
+- [如何切換至其他 Aspire 帳戶？](https://help.aspireapp.com/zh-TW/articles/12040990-如何切換至其他-aspire-帳戶.md)
+- [如何在微信上開始諮詢？](https://help.aspireapp.com/zh-TW/articles/15456419-如何在微信上開始諮詢.md)

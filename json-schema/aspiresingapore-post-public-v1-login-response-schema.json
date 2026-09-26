@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/aspiresingapore/main/json-schema/aspiresingapore-post-public-v1-login-response-schema.json",
+  "title": "PostPublicV1LoginResponse",
+  "x-generated": "2026-09-26",
+  "x-method": "derived",
+  "x-generator": "derive-json-schema.py",
+  "x-source": "openapi/_ae-authored/aspiresingapore-openapi-generated.yml#/components/schemas/PostPublicV1LoginResponse",
+  "type": "object",
+  "properties": {
+    "access_token": {
+      "type": "string"
+    },
+    "token_type": {
+      "type": "string"
+    },
+    "expires_in": {
+      "type": "integer"
+    }
+  }
+}

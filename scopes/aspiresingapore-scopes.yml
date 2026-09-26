@@ -1,0 +1,12 @@
+generated: '2026-09-26'
+method: derived
+source: openapi/aspiresingapore-openapi-generated.yml
+schemes:
+- name: API_Key_client_credentials
+  source: openapi/aspiresingapore-openapi-generated.yml
+  flows:
+  - flow: clientCredentials
+    tokenUrl: https://api.aspireapp.com/public/v1/login
+scopes:
+  - name: none
+    description: No scopes defined

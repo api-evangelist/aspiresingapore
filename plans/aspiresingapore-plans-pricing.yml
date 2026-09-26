@@ -1,0 +1,21 @@
+generated: '2026-09-26'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://aspireapp.com/pricing
+sources:
+- https://aspireapp.com/pricing
+- https://help.aspireapp.com/en/articles/9277653-guide-to-my-subscription-s-billing-information.md
+- https://help.aspireapp.com/en/articles/13049958-the-merchant-asked-for-a-billing-address-during-checkout-which-address-should-i-use.md
+name: Aspiresingapore pricing
+audience: business-product
+pricing_basis: per-seat
+plans:
+- name: Basic
+  price_text: SGD $0 per month
+  price: 0
+  description: Everything you need to manage and scale your business globally
+- name: Premium
+  price_text: SGD $15 per month
+  price: 15
+  description: Smarter savings, VIP support, and exclusive perks
+docs: https://aspireapp.com/pricing

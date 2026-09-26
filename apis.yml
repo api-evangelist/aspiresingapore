@@ -1,23 +1,116 @@
 aid: aspiresingapore
+
 name: Aspiresingapore
-description: 'Aspiresingapore is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://cdn.prod.website-files.com/5ed5b60be1889f546024ada0/6a10208767972cc962cd715f_Website-Preview.webp
+
+description: Aspiresingapore provides a comprehensive financial platform for businesses in Singapore, offering multi‑currency accounts, corporate
+  cards, expense management, payroll, and global payment solutions. Their API suite enables developers to integrate banking, accounting, and compliance
+  features into SaaS products, automating finance operations and supporting growth across SMEs and larger enterprises.
+
 url: https://raw.githubusercontent.com/api-evangelist/aspiresingapore/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-26 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-26'
+
 modified: '2026-09-26'
+
 tags:
-- Company
-apis: []
+- Finance
+- Banking
+- API
+- Singapore
+- SaaS
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Plans
+  url: plans/aspiresingapore-plans-pricing.yml
+- type: Spectral
+  url: rules/aspiresingapore-rules.yml
+- type: JSONLD
+  url: json-ld/aspiresingapore-context.jsonld
+- type: Vocabulary
+  url: vocabulary/aspiresingapore-vocabulary.yml
+- type: DataModel
+  url: data-model/aspiresingapore-data-model.yml
+- type: Authentication
+  url: authentication/aspiresingapore-authentication.yml
+- type: Conformance
+  url: conformance/aspiresingapore-conformance.yml
+- type: LLMsTxt
+  url: llms/aspiresingapore-llms.txt
+- type: SecurityTxt
+  url: well-known/aspiresingapore-help-security.txt
+- type: SecurityTxt
+  url: well-known/aspiresingapore-app-security.txt
+- type: WellKnown
+  url: well-known/aspiresingapore-well-known.yml
+- type: Hosts
+  url: hosts/aspiresingapore-hosts.yml
+- type: Vendors
+  url: vendors/aspiresingapore-vendors.yml
+- type: Support
+  url: https://help.aspireapp.com/en/
+- type: PrivacyPolicy
+  url: https://aspireapp.com/tnc/privacy-policy
+- type: Pricing
+  url: https://aspireapp.com/pricing
+- type: Newsroom
+  url: https://aspireapp.com/newsroom
+- type: Blog
+  url: https://aspireapp.com/blog
+- type: GettingStarted
+  url: https://help.aspireapp.com/en/articles/15433833-getting-started
+- type: Documentation
+  url: https://docs.api.aspireapp.com/
+- type: OAuthScopes
+  url: scopes/aspiresingapore-scopes.yml
+- type: DomainSecurity
+  url: security/aspiresingapore-domain-security.yml
 - type: Website
-  url: https://equityzen.com/company/aspiresingapore
+  url: https://aspireapp.com
+
+apis:
+- aid: aspiresingapore:aspiresingapore-api
+  name: Aspiresingapore API
+  description: 'Aspiresingapore API as documented publicly: 3 operations. Contract generated from the documentation by API Evangelist (2026-09-26);
+    not the provider''s own document.'
+  humanURL: https://docs.api.aspireapp.com/glossary
+  baseURL: https://api.aspireapp.com
+  properties:
+  - type: OpenAPI
+    url: openapi/_ae-authored/aspiresingapore-openapi-generated.yml
+    x-provenance: generated
+  - type: JSONSchema
+    url: json-schema/aspiresingapore-post-public-v1-login-response-schema.json
+  - type: JSONSchema
+    url: json-schema/aspiresingapore-post-public-v1-login-request-schema.json
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: Documentation at https://docs.api.aspireapp.com returns HTML pages without a machine‑readable OpenAPI spec.
+  evidence:
+  - url: https://docs.api.aspireapp.com
+    status: 200
+  checked: 2026-09-26
+x-enrichment:
+  date: '2026-09-26'
+  status: enriched
+  artifacts_added: 20
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local

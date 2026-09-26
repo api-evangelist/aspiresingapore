@@ -1,0 +1,36 @@
+generated: '2026-09-26'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://help.aspireapp.com/en/articles/9285867-how-to-set-up-a-biometric-authentication.md
+sources:
+- https://help.aspireapp.com/en/articles/9285867-how-to-set-up-a-biometric-authentication.md
+- https://docs.api.aspireapp.com/authentication
+- https://help.aspireapp.com/en/articles/15433833-getting-started.md
+description: Authentication methods for Aspire API
+schemes:
+- type: http-bearer
+  name: Bearer token
+  evidence: 'Every Aspire API request must be authenticated with an access token , sent as a bearer token in the Authorization header:'
+  location: header
+  header: Authorization
+  how_to_obtain: 'Obtain an access token via one of the supported authentication flows and include it as "Authorization: Bearer {access_token}"
+    on each request.'
+- type: oauth2
+  name: API Key (client credentials)
+  evidence: 'Method 1 — API Key (client credentials)​ Create an API key in the Aspire dashboard and securely store the Client ID and Client Secret
+    (the secret is shown only once). Exchange them for an access token:'
+  location: header
+  header: Authorization
+  token_url: https://api.aspireapp.com/public/v1/login
+  how_to_obtain: Create an API key in the Aspire dashboard, then POST to the token endpoint with grant_type=client_credentials, client_id and
+    client_secret to receive an access token.
+- type: oauth2
+  name: OAuth 2.0 (Authorization Code + PKCE)
+  evidence: 'Method 2 — OAuth 2.0 (Authorization Code + PKCE)​ For third‑party apps acting on a user''s behalf, Aspire uses the Authorization
+    Code flow with PKCE:'
+  location: header
+  header: Authorization
+  authorize_url: https://app.aspireapp.com/oauth/connect?client_id=<CLIENT_ID>&redirect_uri=<REDIRECT_URI>&...
+  how_to_obtain: Register your app to receive a client ID, redirect the user to the authorization URL, then exchange the returned authorization
+    code for an access token (and refresh token).
+docs: https://help.aspireapp.com/en/articles/9285867-how-to-set-up-a-biometric-authentication.md
