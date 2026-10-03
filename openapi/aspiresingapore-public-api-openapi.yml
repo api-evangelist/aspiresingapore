@@ -93,15 +93,6 @@ paths:
         collapsed_from: 2 example path(s) differing only at v1Id
 components:
   schemas:
-    PostPublicV1LoginRequest:
-      type: object
-      properties:
-        grant_type:
-          type: string
-        client_id:
-          type: string
-        client_secret:
-          type: string
     PostPublicV1LoginResponse:
       type: object
       properties:
@@ -111,6 +102,15 @@ components:
           type: string
         expires_in:
           type: integer
+    PostPublicV1LoginRequest:
+      type: object
+      properties:
+        grant_type:
+          type: string
+        client_id:
+          type: string
+        client_secret:
+          type: string
   securitySchemes:
     Bearer_token:
       type: http
