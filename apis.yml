@@ -23,7 +23,16 @@ created: '2026-09-26'
 
 modified: '2026-09-26'
 
+x-docs-platform: docusaurus
+x-docs-platform-confidence: medium
+x-docs-platform-checked: 2026-10-03
+x-docs-hosting: github-pages
 tags:
+- Finance
+- Banking
+- Singapore
+- Software-as-a-Service
+tags_raw:
 - Finance
 - Banking
 - API
