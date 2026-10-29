@@ -64,5 +64,127 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Aspiresingapore is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://equityzen.com/company/aspiresingapore
+Aspiresingapore provides a comprehensive financial platform for businesses in Singapore, offering multi‑currency accounts, corporate cards, expense management, payroll, and global payment solutions. Their API suite enables developers to integrate banking, accounting, and compliance features into SaaS products, automating finance operations and supporting growth across SMEs and larger enterprises.
+
+**Areas:** Finance · Banking · Singapore · Software-as-a-Service
+
+## Aspiresingapore on APIs.io
+
+Everything profiled for Aspiresingapore is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aspiresingapore/](https://apis.io/providers/aspiresingapore/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Aspiresingapore Public API](https://apis.io/apis/aspiresingapore/aspiresingapore-public-api/) — The Public API from Aspiresingapore — 3 operation(s) for public.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [aspiresingapore-mcp.yml](https://apis.io/servers/aspiresingapore/aspiresingapore-mcp-yml/)
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [PostPublicV1LoginRequest](https://apis.io/schemas/aspiresingapore/aspiresingapore-post-public-v1-login-request/)
+- [PostPublicV1LoginResponse](https://apis.io/schemas/aspiresingapore/aspiresingapore-post-public-v1-login-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Aspiresingapore Context](https://apis.io/jsonld/aspiresingapore/aspiresingapore-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Aspiresingapore API Rules](https://apis.io/rules/aspiresingapore/aspiresingapore-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aspiresingapore Authentication](https://apis.io/security/aspiresingapore/aspiresingapore-authentication/)
+- [Aspiresingapore Domain Security](https://apis.io/security/aspiresingapore/aspiresingapore-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Aspiresingapore Scopes](https://apis.io/scopes/aspiresingapore/aspiresingapore-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Aspiresingapore Plans Pricing](https://apis.io/plans/aspiresingapore/aspiresingapore-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aspireapp.com)
+- [Documentation](https://docs.api.aspireapp.com/)
+- [Getting started](https://help.aspireapp.com/en/articles/15433833-getting-started)
+- [Pricing](https://aspireapp.com/pricing)
+- [Support](https://help.aspireapp.com/en/)
+- [Blog](https://aspireapp.com/blog)
+- [Privacy policy](https://aspireapp.com/tnc/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 33.4** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 21.0 |
+| Contract governance | 35.6 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 42.1 |
+
+**Agent readiness 18.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 29.9** — Banking & Open Finance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aspiresingapore/](https://apis.io/providers/aspiresingapore/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Aspiresingapore: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aspiresingapore/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
